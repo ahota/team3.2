@@ -1,122 +1,132 @@
 #!/usr/bin/env python
 
-#Just keeping things simple
+#As a matter of pride, I am making this more robust
 
-import time, subprocess, os, pickle, threading
+import time, subprocess, os, pickle, threading, Queue
 
-CLONEHOME = '/home/ubuntu/clones'
-BITBUCKET = 'https://bitbucket.org/'
+CLONEHOME = '/home/ubuntu/test_clones'  #Base directory -> /home/ubuntu/clones/<vcs>/<user>/<repo>
+BITBUCKET = 'https://bitbucket.org/'    #Base URL -> https//bitbucket.org/<user>/<repo>
+THRESHOLD = 22000000                    #Largest repo is 22GB, need to keep this minimum free space in case it gets cloned
+C_THREADS = 28                          #Total number of clone threads -> 14 for each VCS
+R_THREADS = 4                           #Total number of rsync threads -> 2 for each VCS
 
-hg = []
-git = []
+hg = Queue.Queue()
+git = Queue.Queue()
 hg_time = 0
 git_time = 0
-git_lock = threading.Lock()
-hg_lock = threading.Lock()
+hg_rsync_queue = Queue.Queue()
+git_rsync_queue= Queue.Queue()
+
+def get_disk_space(mount):
+    return int(subprocess.check_output(['df', '-k', mount]).split('\n')[1].split()[3])
 
 #This is a generic function that can do the work of either
 #Git or Mercurial, depending on what is passed to it
 def clone(vcs):
-    #Specify that we want to use these global variables
-    global hg
-    global git
-    global git_lock
-    global hg_lock
-    total_time = 0
     
     #Get the current time
-    begin = time.time()
+    start = time.time()
 
-    #Figure out which list we should look through and which locks to use
+    #Figure out which list we should look through and which queue to use
     if vcs == 'hg':
-        my_list = hg
-        my_lock = hg_lock
-        other_lock = git_lock
+        my_queue = hg
+        my_rsync_queue = hg_rsync_queue
     else:
-        my_list = git
-        my_lock = git_lock
-        other_lock = hg_lock
+        my_queue = git
+        my_rsync_queue = git_rsync_queue
 
-    #Go through every repo in our list and try to clone it
-    for i in range(len(my_list)):
+    #Go through every repo in the queue and try to clone it
+    while not my_queue.empty():
         
-        #Grab this thread's lock. Block here until we can get it
-        my_lock.acquire(True)
+        #Check our remaining space. This just calls the shell command 'df'
+        #and does some splitting to get the number we want
+        #If the space remaining is not enough, sleep until there is
+        space = get_disk_space(CLONEHOME+'/'+vcs)
+        while(space <= THRESHOLD):
+            #This should only happen when rsync threads haven't caught up yet
+            #Sleep for 5 seconds so we're not hammering the system with 'df'
+            time.sleep(5)
+            space = get_disk_space(CLONEHOME+'/'+vcs)
 
         #Extract the username and reponame from the full name
-        user, repo = my_list[i].split('/')
+        full_name = my_queue.get(block=True)
+        user, repo = full_name.split('/')
         #Make a directory for this user. Usernames are unique, so this way,
         #we can keep all of one user's repos in one place safely
         try:
             os.mkdir(CLONEHOME+'/'+vcs+'/'+user)
         except OSError:
             #os.mkdir throws this error if the directory already exists
-            #But we don't care, so just print something
-            print user+' already had folder'
+            #But we don't care, so just pass
+            pass
         #Go into the folder we just made
         os.chdir(CLONEHOME+'/'+vcs+'/'+user)
 
-        #Clone! Syntax for each is a bit different
+        #Clone!
         if vcs == 'hg':
-            subprocess.call(['hg', 'clone', '-U', BITBUCKET+my_list[i]])
+            time.sleep(10)
+            #subprocess.call(['hg', 'clone', '-U', '-q', BITBUCKET+my_list[i]])
         else:
-            subprocess.call(['git', 'clone', '--mirror', BITBUCKET+my_list[i]])
-        
-        #Release our lock to prevent a deadlock when checking for rsync
-        my_lock.release()
+            time.sleep(3)
+            #subprocess.call(['git', 'clone', '--mirror', '--quiet', BITBUCKET+my_list[i]])
 
-        #Check our remaining space. This just calls the shell command 'df'
-        #and does some splitting to get the number we want
-        space = int(subprocess.check_output(['df', '-k', CLONEHOME+'/'+vcs]).split('\n')[1].split()[3])
-        #The space is reported in 1KB blocks, so 10,000,000 * 1K = 10GB
-        #Each of our VCS folders are on separate drives
-        #Over-cautionary limit to space left
-        if space < 10000000:
-            #"pause" our timer and add the elapsed time to our total timer
-            pause = time.time()
-
-            #Block here until this thread can acquire the other thread's lock
-            #The other thread's lock will be free once it finishes cloning
-            other_lock.acquire(True)
-            try:
-                total_time += pause - begin
-                #os.system is generally not recommended, but rsync didn't work with subprocess
-                os.system('rsync --remove-source-files -ae "ssh -p 2200" '+CLONEHOME+'/'+vcs+' ahota@da2.eecs.utk.edu:')
-                #The --remove-source-files flag above deletes files but not the directory structure
-                #So we do that separately
-                os.system('rm -r '+CLONEHOME+'/'+vcs+'/*')
-            finally:
-                #This code will always execute even if something goes wrong above
-                other_lock.release()
-            #Get the current time again and continue
-            begin = time.time()
+        #Add the repo we just cloned into the rsync queue
+        my_rsync_queue.put(full_name, block=True)
     
     #Get the final time and find out how long we took
     stop = time.time()
-    total_time += stop - begin
+    total_time += stop - start
     print 'Time taken ('+vcs+'):', total_time
     if vcs == 'hg':
         hg_time = total_time
     else:
         git_time = total_time
 
+def rsync(vcs):
+    #Figure out which queue to get repos from
+    if vcs == 'hg':
+        my_queue = hg_rsync_queue
+    else:
+        my_queue = git_rsync_queue
 
-#Load our list of repos for Git and Mercurial
-hg = pickle.load(open('hg.p', 'rb'))
-git = pickle.load(open('git.p', 'rb'))
+    #Get the username and repo name from the queue
+    full_name = my_queue.get(block=True)
+    user, repo = full_name.split('/')
+
+    #Go to the appropriate folder and rsync the repo
+    os.chdir(CLONEHOME+'/'+vcs+'/'+user)
+    time.sleep(2)
+    #os.system('rsync --remove-source-files -ae "ssh -p 2200" ./'+repo+' ahota@da2.eecs.utk.edu')
+    #I'm excluding the rm -rf command because it could potentially delete a repo that didn't successfully rsync
+
+
+
+
+#Load our queues with the pickled lists of repos for Git and Mercurial
+map(hg.put, pickle.load(open('hg.p', 'rb')))
+map(git.put, pickle.load(open('git.p', 'rb')))
 
 #Make two threads, one for each VCS
 #We target the clone function above and tell it which VCS it is
-hg_thread = threading.Thread(target=clone, name='hg_thread', args=('hg',))
-git_thread = threading.Thread(target=clone, name='git_thread', args=('git',))
+#hg_thread = threading.Thread(target=clone, name='hg_thread', args=('hg',))
+#git_thread = threading.Thread(target=clone, name='git_thread', args=('git',))
+
+hg_threads = []
+git_threads = []
+for i in range(C_THREADS/2):
+    hg_threads.append( threading.Thread(target=clone, name='hg_thread_'+str(i), args=('hg',)) )
+    git_threads.append( threading.Thread(target=clone, name='git_thread_'+str(i), args=('git',)) )
+
 
 #Let the threads run
-hg_thread.start()
-git_thread.start()
+for i in range(C_THREADS/2):
+    hg_threads[i].start()
+    git_threads[i].start()
 
 #Shut down the threads once they exit
-hg_thread.join()
-git_thread.join()
+for i in range(C_THREADS/2):
+    hg_threads[i].join()
+    git_threads[i].join()
 
 print 'Git:', git_time
 print 'Mercurial:', hg_time

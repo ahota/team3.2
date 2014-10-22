@@ -1,8 +1,0 @@
-[core]
-	repositoryformatversion = 0
-	filemode = true
-	bare = true
-[remote "origin"]
-	url = https://bitbucket.org/vbuyakov/testgame
-	fetch = +refs/*:refs/*
-	mirror = true

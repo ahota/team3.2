@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://bitbucket.org/poli_g/oop_2nd_semester
+	fetch = +refs/*:refs/*
+	mirror = true

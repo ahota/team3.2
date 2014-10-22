@@ -1,0 +1,689 @@
+commit c6c28fcfeb473090e54bef5aad1fa7c23dad55de
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Sun Mar 23 11:26:35 2014 +0000
+
+    lazy image load
+
+commit d76ed42eb3864e07dd9c9850920b740687ce55c1
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Thu Mar 20 12:26:47 2014 +0000
+
+    misc
+
+commit 8eaa763e174635c4ae7fb8d8b8dec6d22869c768
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Wed Mar 19 09:10:55 2014 +0000
+
+    misc
+
+commit 2c89200b610ee12fbc713c334772ee07b58af81b
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Sat Feb 22 11:49:00 2014 +0000
+
+    misc
+
+commit 9b114e3415308cae2ca67de8083870cc5937ce20
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Thu Feb 20 18:31:53 2014 +0000
+
+    list improvement
+
+commit 4fac88c79a9fdf45f4b4f106cf9684a373738c5c
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Thu Feb 20 17:03:07 2014 +0000
+
+    bugfix, lists
+
+commit 13c47e614556d6593c294762dbdd919dd78f67db
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Tue Feb 18 13:22:12 2014 +0000
+
+    misc
+
+commit aba87386f24016d04dab3f5600256541afc0b938
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Sat Feb 15 18:56:32 2014 +0000
+
+    misc
+
+commit 4f4b924d8a1d90f63e5295bcf99c5013b1a90f53
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Fri Feb 14 11:13:14 2014 +0000
+
+    oauth active
+
+commit 8283674bc05102de74a7523eb9cf34d377dfef5d
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Wed Feb 12 18:20:39 2014 +0000
+
+    random page enhancement
+
+commit 6dda70912af03111febd995bfdb31844241167c9
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Wed Feb 12 14:04:36 2014 +0000
+
+    separating long auto-description into its own class and file
+
+commit 51d7ee6d2114b594c5cc4d0c5dce045a7deee057
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Mon Feb 10 14:03:21 2014 +0000
+
+    Flickr images, user prefs
+
+commit a37edad30799723700f64507262286e7a7e16f83
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Fri Feb 7 16:41:30 2014 +0000
+
+    misc
+
+commit 13e61da1a1ae00572613448350c8e60819f0ccff
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Fri Feb 7 15:24:14 2014 +0000
+
+    long descriptions
+
+commit f30ad1f2bcc5692b17dda273823f77eb171e70a5
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Thu Feb 6 13:49:12 2014 +0000
+
+    sitelink hoverboxes
+
+commit 2d9c8c6fb2d989163e0d13995d7c5830c0117671
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Thu Feb 6 10:35:58 2014 +0000
+
+    misc
+
+commit 9489340530807cdc5734fe5d287609ca948d3fee
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Wed Feb 5 23:50:08 2014 +0000
+
+    self-fixing timeline
+
+commit 5faed9e3354d40a41b3c4853249ee9d19c6ec441
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Wed Feb 5 23:44:09 2014 +0000
+
+    bugfix
+
+commit 754056d413353dc38081c62cb262ba1bd40a506d
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Wed Feb 5 16:44:26 2014 +0000
+
+    add images from Wikipedia
+
+commit ac77ca30c4c6713d9b9d49abc4ab1cdfd74d4dbf
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Wed Feb 5 13:12:13 2014 +0000
+
+    begin JSdoc documentation
+
+commit 39cd51f0c33a18513fa2df8fcedf3d78a46d2443
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Tue Feb 4 23:24:09 2014 +0000
+
+    timeline
+
+commit fe3d2e87d4595c74560b104ae70ab4ce7d6be396
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Tue Feb 4 22:00:04 2014 +0000
+
+    timeline
+
+commit c7cbb29845efd661fead9600c7ecf8ad63de41df
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Tue Feb 4 13:55:17 2014 +0000
+
+    3rd map as fallback
+
+commit b4677bdf674a3fa454ad5e63a86fbb65dde6258e
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Tue Feb 4 10:26:13 2014 +0000
+
+    qualifier property display fix
+
+commit 695acd9180358d628a03a874b1a303272e9d09e4
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Mon Feb 3 20:48:30 2014 +0000
+
+    fixes
+
+commit a5acb4d97d5d924d014ca5cac9ab64ca43fc3ae8
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Mon Feb 3 13:49:22 2014 +0000
+
+    bug fix
+
+commit f6c98387d6eb9dfd69a1ee0d0896f36c7a09ee0d
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Mon Feb 3 12:39:11 2014 +0000
+
+    refactoring
+
+commit 0a3c81dca6d31d28bcb3ba38da0f60bee68af600
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Mon Feb 3 12:38:56 2014 +0000
+
+    refactoring
+
+commit c6331dd49510035877240e1b33e3ac37cb3072a5
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Mon Feb 3 10:43:13 2014 +0000
+
+    preparing generic type system
+
+commit 6d600bf92bf2a0a1399d35c8c3a097a797210b01
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Mon Feb 3 09:02:58 2014 +0000
+
+    time zone prop
+
+commit fd7780646b769b569d0c4fcd2a24750446f344e4
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Sun Feb 2 17:22:02 2014 +0000
+
+    wdq notice for classification
+
+commit 1ff9875278474898a37a266d32e69e37c0a722f5
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Sun Feb 2 17:09:45 2014 +0000
+
+    wdq notice for classification
+
+commit f3961ab5bacb329d3fa3885ff5faef0f72e5089b
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Sun Feb 2 16:43:28 2014 +0000
+
+    rank style
+
+commit cd60ef12d043c874173558a27b9ea49e31062a83
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Sun Feb 2 16:35:50 2014 +0000
+
+    rank style
+
+commit a4f84512d263b1485bf8a01f807ff643269d434c
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Sat Feb 1 16:06:48 2014 +0000
+
+    misc
+
+commit e812ba0f7018f8df7dbab055a537eee362d2bc68
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Sat Feb 1 14:22:56 2014 +0000
+
+    misc
+
+commit 8549903c4c56ae2c089667caf2e442d1108d5645
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Sat Feb 1 14:13:05 2014 +0000
+
+    misc
+
+commit 4291c8f8028ac27420be10bf1eb6ccc32095417a
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Sat Feb 1 14:08:10 2014 +0000
+
+    misc
+
+commit 3f5339bf4c6b024d83c03e305be2023ca6ad9008
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Sat Feb 1 13:35:27 2014 +0000
+
+    misc
+
+commit 83350f3d28a59978bf6e1bb516d1c253a0da46e1
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Sat Feb 1 13:31:17 2014 +0000
+
+    misc
+
+commit 2b52f400ee829a9caf5ce6137a4eddc5c849dfe0
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Fri Jan 31 16:37:28 2014 +0000
+
+    banned bug fix
+
+commit 7154a5ae8018856342f6739aa9c1badc468c2949
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Fri Jan 31 11:30:49 2014 +0000
+
+    quantities support
+
+commit 03c14098ae08b02c5ba45c7c4ae3d0b3c59f630b
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Fri Jan 31 11:23:07 2014 +0000
+
+    quantities support
+
+commit ba0011fd9e141a28144d3c1f7d7dc822b1bcf4b9
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Fri Jan 31 11:19:50 2014 +0000
+
+    quantities support
+
+commit e0d21595104b51d39b369c5af13781eace8822e2
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Thu Jan 30 16:29:11 2014 +0000
+
+    genus detector fix
+
+commit 5fced135649ba594dd93c40e8a0f0be2829c8776
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Thu Jan 30 14:37:10 2014 +0000
+
+    calendar improvements
+
+commit fe73369d319cbb5c45f36e59854be7059819b1e9
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Wed Jan 29 23:56:49 2014 +0000
+
+    Calendar beginning
+
+commit 3a6fdcd8d8cfc1430bf601d1de078dfa4c0c495e
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Wed Jan 29 23:48:45 2014 +0000
+
+    Calendar beginning
+
+commit 3defa881a3348dbaba79b3f62e55ff1c4c94c986
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Wed Jan 29 19:01:13 2014 +0000
+
+    examples
+
+commit 9daf40de286ed0a632b5d1a934d26788c286211e
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Wed Jan 29 18:42:33 2014 +0000
+
+    hide genus suggestion if no candidates
+
+commit 74186a26a17e0cbb3bb5b7015c07299fe33dd0a5
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Wed Jan 29 16:55:36 2014 +0000
+
+    media improvements
+
+commit c743a16d40dc08fdd9893386abce573362d67404
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Wed Jan 29 15:56:13 2014 +0000
+
+    showcase items
+
+commit 5173740818a9cab3f6672960b0745caaa78874be
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Wed Jan 29 15:41:12 2014 +0000
+
+    subclass-of for generic items
+
+commit efea065f1b8f4753120de140c0b309b143a98be4
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Wed Jan 29 13:16:07 2014 +0000
+
+    taxon guesser
+
+commit 470a90224201d85826a9c337c8a93e4bfb98bd42
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Wed Jan 29 13:07:23 2014 +0000
+
+    taxon guesser
+
+commit ecdea1e791413e82e1abdbc233c4dfe9be2e18e4
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Wed Jan 29 11:07:28 2014 +0000
+
+    WiDaR one-click editing
+
+commit 43db1e70af77db2cb4e6f0206bae3eb84979d083
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Tue Jan 28 21:01:57 2014 +0000
+
+    language fix for random item
+
+commit 195944405f785d91c9a2c73e61b91e49c7165123
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Tue Jan 28 20:58:10 2014 +0000
+
+    images in search results
+
+commit ae537886262a685a12f861971adcb077a63246d0
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Tue Jan 28 20:20:36 2014 +0000
+
+    catching no search results
+
+commit 29541fbc9e738bc80ae1dd6cc3182689bbe17a86
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Tue Jan 28 19:05:45 2014 +0000
+
+    misc
+
+commit ff0d1d8f9f79362c19698d9f67be0c015ac8e135
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Tue Jan 28 16:07:09 2014 +0000
+
+    new bootstrap, layout
+
+commit cd7d5a2a104007dd61daa66cd58b538a0cefc5d4
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Tue Jan 28 09:30:56 2014 +0000
+
+    random page now excludes categories, templates, lists
+
+commit b9b89735f504ebe52c1d05edd99111b82b4c8c57
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Mon Jan 27 23:40:57 2014 +0000
+
+    search fix
+
+commit 6a7b6b65d60c32b8f9886a8142bfea724f0e83fc
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Mon Jan 27 22:41:19 2014 +0000
+
+    search improvement
+
+commit 2c0f2de89ec1a95fc94a70ae287d02b4c08d5637
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Mon Jan 27 19:09:01 2014 +0000
+
+    history function
+
+commit e3b9087bc11d00c543253e8622714ff39c12c4f5
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Mon Jan 27 19:06:56 2014 +0000
+
+    Taxotree/location tree speed improvement
+
+commit 9f5b5481dbb0daca234430d7e677bfafb7ffa615
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Mon Jan 27 10:36:34 2014 +0000
+
+    new jquery version
+
+commit 7b08d073ff024282226d06aff6792e9223ed0dc8
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Sun Jan 26 20:43:57 2014 +0000
+
+    bug fix
+
+commit 8f6d1349827b4ebc303de7ec68a8ac803e4ef484
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Sun Jan 26 20:42:20 2014 +0000
+
+    bug fix
+
+commit da8ac390ad5ee6d787be71b7db43ddff199bee88
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Sun Jan 26 20:32:48 2014 +0000
+
+    wdq note
+
+commit 67d016536e3b02ec7b998a43734141533016c838
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Sun Jan 26 17:35:38 2014 +0000
+
+    bug fix
+
+commit ea8d4cb9bdcc823d5ec9cafa1a67fd3dc03499d6
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Sun Jan 26 16:08:32 2014 +0000
+
+    bug fix
+
+commit d8e52e47faef7bf462190ff12ef6aca0c12a356a
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Sun Jan 26 16:04:08 2014 +0000
+
+    speed update
+
+commit 91c960d0793f5f61bbcdfacab09c06d5e57b5fb0
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Sat Jan 25 19:08:47 2014 +0000
+
+    option to use WDQ to get taxon tree faster
+
+commit 5896be70109f71b5e1f83d6bcbbd973cb89f5bf0
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Sat Jan 25 15:22:29 2014 +0000
+
+    taxon fix
+
+commit 50bc6097feec9709b6e6df9758d6d98746a16efd
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Sat Jan 25 15:09:12 2014 +0000
+
+    sitelinks fix
+
+commit 35c96ee92015c7cbad0ff9eab9f432d5abd9c772
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Fri Jan 24 23:32:28 2014 +0000
+
+    layout fix
+
+commit ab7fb87e35d5f9b7cb11846b0e9caf3bd792e7c8
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Fri Jan 24 13:57:18 2014 +0000
+
+    misc
+
+commit 68bc5088c2bf293f40b3664f6c344753677a3180
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Fri Jan 24 13:49:33 2014 +0000
+
+    cleanup
+
+commit 128c3a9ddec7e291e2b30a341247654100a37bac
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Fri Jan 24 13:48:23 2014 +0000
+
+    restructuring
+
+commit e2f6fb4d62417a1e160bb3609a5e6372aad234d5
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Fri Jan 24 12:46:31 2014 +0000
+
+    link fix
+
+commit 3202e47ff94a68b1113486c326246e6711c9d5db
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Fri Jan 24 12:41:37 2014 +0000
+
+    lang fix
+
+commit c35b2a61369851d81729e554558cc23123000a25
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Fri Jan 24 09:43:30 2014 +0000
+
+    concept cloud link fix
+
+commit 97d6fd7d6a21c5b4230e155070982e992ef80e85
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Fri Jan 24 09:39:59 2014 +0000
+
+    concept cloud link
+
+commit f8b81a03370311d7f9def4282f4c19ce839f5160
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Fri Jan 24 09:15:57 2014 +0000
+
+    small fixes
+
+commit bc5273a2117a30d8536942ab1aa3215725f248f4
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Thu Jan 23 20:57:23 2014 +0000
+
+    OAuth label edit, QR code
+
+commit 6fd520484a9a4aba8993b780607a43775c5d056f
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Wed Jan 22 19:08:55 2014 +0000
+
+    moving cluetip
+
+commit aae15728e33d98caa74ada188fed47263fe69da3
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Wed Jan 22 11:12:20 2014 +0000
+
+    fallback labels
+
+commit 06f964da786339f00eb74782e9989f87a0c22f75
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Tue Jan 21 23:11:28 2014 +0000
+
+    i18n fix
+
+commit dbf15e40838e3f4ce7c9fd59bb705247ee494d2f
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Tue Jan 21 22:58:46 2014 +0000
+
+    hoverbox descriptions
+
+commit bc58c5880ca97f338ff8f2d1c25e7c6f7bab9067
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Tue Jan 21 13:52:32 2014 +0000
+
+    red line indicating missing label in primary language
+
+commit 83b5c4887ac2ce6ee2ee186ca55342420eed202b
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Mon Jan 20 10:25:21 2014 +0000
+
+    Language selector for search
+
+commit 6fb6b726b6f070ebe5ef3ae34179f68a81f27a70
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Sun Jan 19 16:10:13 2014 +0000
+
+    siblings fix
+
+commit b0c1e9523ceb56ae30a484b948e83954a8150895
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Sun Jan 19 16:06:21 2014 +0000
+
+    language selector
+
+commit 14925855932def1cbefaf6ce9df4ac67b59d2580
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Sun Jan 19 14:44:47 2014 +0000
+
+    taxon layout change
+
+commit 3b1577fac5e69bedd1ef13c35213d028896f7dfb
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Sun Jan 19 12:10:22 2014 +0000
+
+    range map for taxon
+
+commit 4923fd258b0e3d7bbe90a74f0a52a3e3a489b4b4
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Sun Jan 19 00:07:43 2014 +0000
+
+    Map images
+
+commit 8a0b297a5e53d0c64ac3dedbe5aed40b2215d22b
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Sat Jan 18 17:53:06 2014 +0000
+
+    hiding relatives box, if there are none
+
+commit a17e9ef0b481ca811259f77f363e6212ec973e21
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Sat Jan 18 17:32:32 2014 +0000
+
+    bugfix, sidebar layout
+
+commit bec132b97e16c36df15afcd01a5486b4e746d469
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Fri Jan 17 16:23:35 2014 +0000
+
+    RTL
+
+commit 4a25f928a4b571a415e4ff54efba48ac6fb7640d
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Fri Jan 17 13:29:50 2014 +0000
+
+    interface language fix
+
+commit 8fd8772fde940fd7970450933bcbef934065fa38
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Fri Jan 17 13:16:55 2014 +0000
+
+    misc
+
+commit b077024fd913652ccc330cb8e54be7506173165f
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Fri Jan 17 10:56:49 2014 +0000
+
+    sitelinks improvements, inline genealogy browser
+
+commit 6ad3b5d1a213ed1d343a86547a6949c5c6d14d6a
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Wed Jan 15 19:16:34 2014 +0000
+
+    geneawiki link fix
+
+commit 1834e99067401af25f2e8a27162cfd17e92c06fe
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Wed Jan 15 16:25:01 2014 +0000
+
+    misc
+
+commit d3bf51e97f479eee8ab6ca3e4944e64db223f7b6
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Sun Jan 12 19:08:40 2014 +0000
+
+    misc
+
+commit 1bf5c791131e749b5d7bb455438a1681ed6efb69
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Sun Jan 12 17:39:44 2014 +0000
+
+    misc
+
+commit 2fd7913c11e462f0651d9767a6b5f99a1e4a7efd
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Sat Jan 11 17:02:45 2014 +0000
+
+    search function
+
+commit 3c1ea9a17b9ecc5e201556260d7711796777461e
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Thu Jan 9 13:50:46 2014 +0000
+
+    misc
+
+commit 18acb002272eca0f74697d74d6371720ffa24596
+Author: local-reasonator <local-reasonator@tools.wmflabs.org>
+Date:   Wed Nov 20 15:22:59 2013 +0000
+
+    update
+
+commit 8a736b6bd5664689713dceb862605b28ebf3622c
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Sun Nov 10 11:07:43 2013 +0000
+
+    Routine check-in
+
+commit dd0ad58bed960a464e3ac8fd95817861cc2d4c9a
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Tue Oct 29 10:34:41 2013 +0000
+
+    Routine check-in
+
+commit 4c022aafb5642042d1c41675a23b5422a9904f6e
+Author: Magnus Manske <magnusmanske@googlemail.com>
+Date:   Sun Aug 4 18:11:22 2013 +0000
+
+    Routine check-in
+
+commit 79b8987121972c4d421b92bb4b88ac1bbc594fcf
+Author: Magnus Manske <magnus@tools.wmflabs.org>
+Date:   Mon Jun 24 19:38:50 2013 +0000
+
+    Routine check-in
+
+commit 7c3c3ce3a7822e3a0e3af1c2d8c1df2384312761
+Author: Magnus Manske <magnus@tools.wmflabs.org>
+Date:   Mon Jun 24 19:25:55 2013 +0000
+
+    Initial check-in

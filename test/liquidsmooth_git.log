@@ -1,0 +1,3758 @@
+commit 9ff49095fe78357582593da1105d4d8e1167db8d
+Author: jason Surprenant <jayandemily031@gmail.com>
+Date:   Sat Oct 12 01:41:54 2013 +0000
+
+    Full rewrite...default.xml edited online with Bitbucket
+
+commit 0ae05e9c18721d8a0510fbd3e193fe340e2e60de
+Author: jason Surprenant <jayandemily031@gmail.com>
+Date:   Fri Oct 11 21:12:23 2013 +0000
+
+    default.xml edited online with Bitbucket
+
+commit 30722835b2db8c0e8a56c6acf3416b56b2f42a37
+Author: jason Surprenant <jayandemily031@gmail.com>
+Date:   Fri Oct 11 21:00:09 2013 +0000
+
+    default.xml edited online with Bitbucket
+
+commit a51749ded302e18e2c7fd102f5d6692c81924f6f
+Author: jason Surprenant <jayandemily031@gmail.com>
+Date:   Fri Oct 11 20:30:11 2013 +0000
+
+    fix for remote default.xml edited online with Bitbucket
+
+commit 6412a58a315ae3af99cb230a471500ac3e1b8cf6
+Author: jason Surprenant <jayandemily031@gmail.com>
+Date:   Fri Oct 11 20:14:48 2013 +0000
+
+    change it up n fix errors..default.xml edited online with Bitbucket
+
+commit ab5c2f0abdfb25d7fbcc8e5f5acbeaab3d84c53a
+Author: jason Surprenant <jayandemily031@gmail.com>
+Date:   Fri Oct 11 02:44:36 2013 +0000
+
+    update to 4.3 default.xml edited online with Bitbucket
+
+commit fbf0c86807e323783c77a25e78e76524235b0958
+Author: jason Surprenant <jayandemily031@gmail.com>
+Date:   Fri Oct 11 02:38:43 2013 +0000
+
+    update to 4.3 soupysoup repo README.mkdn edited online with Bitbucket
+
+commit 64ebc559a5405f9586f987fe453226adf7f2f782
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Wed Oct 2 01:41:20 2013 +0000
+
+    Remove Excess Baggage
+
+commit f0d308171c636988144e8ceadb93a6cd24046c83
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Thu Sep 26 12:19:40 2013 +0000
+
+    Change Vendor
+
+commit fc5cc8c6eabb191bc1ef6b4da4f084f462e607d5
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Mon Sep 23 22:25:33 2013 +0000
+
+    CM Bluetooth
+
+commit 53e3f7a6063334464a327fcb15767ef6fae21b04
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Mon Sep 23 17:45:12 2013 +0000
+
+    Meh
+
+commit 77dcf229e464cb794ac72fe555db9f5989c16dff
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Mon Sep 23 17:44:10 2013 +0000
+
+    Update
+
+commit 2e0f1047c85c9fb902eb5c0ed5d52c9140d912dd
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Mon Sep 23 17:33:40 2013 +0000
+
+    4.3-r3.1
+
+commit 4bcbd7213173e223e6ddcdb254293d73030ac582
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Mon Sep 23 00:03:55 2013 +0000
+
+    Fix Compile Errors
+
+commit 3a64268e2f55b8ed27cd0c52bf2b8ce25096c806
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Sun Sep 22 12:17:56 2013 +0000
+
+    Put back Deskclock
+
+commit e2d1131b9219d6055a99d5625091779797ff6873
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Sat Sep 21 20:45:02 2013 +0000
+
+    My icon sucks...
+
+commit 15b87a08e03768bd0de2cbdfac0d274d39fd91c0
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Sat Sep 21 19:23:41 2013 +0000
+
+    Try new Email
+
+commit c544b0c2f042946e75c11ff9dc94d8096174e6d1
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Sat Sep 21 18:19:56 2013 +0000
+
+    Updates
+
+commit 20fb203b64f92eacc9de94f66aa387c57a0a6438
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Sat Sep 21 03:08:38 2013 +0000
+
+    Use my Telephony!
+
+commit e94dea63bcf3d248fe8d0ba73a0fd54034e82732
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Sat Sep 21 02:24:19 2013 +0000
+
+    Use LS bluetooth
+
+commit cf83ea451e5c637bc90b84888933a84162f44913
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Sat Sep 21 02:20:30 2013 +0000
+
+    Use my Messaging App
+
+commit 3ceb9137c1909fb6e03a85ae78eea258d1b32a87
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Tue Sep 17 23:24:10 2013 +0000
+
+    Add Back Arm-androideabi-4.7
+
+commit bb3036a3ded5a61ac37f605ae6bf53aed832de18
+Author: Cl3Kener <cl3kener@gmail.com>
+Date:   Tue Sep 17 12:50:41 2013 -0400
+
+    Screw Sabermod
+
+commit 1cadbb02c8b08e8cbd5173a56201128e4d0f02ed
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Tue Sep 17 11:49:15 2013 -0400
+
+    Track android-4.3_r3 aosp branches
+
+commit 63e3c4c21fc63264329d8a18e944b228fb86d7fa
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Tue Sep 17 10:59:49 2013 -0400
+
+    Track frameworks opt mms from CM
+
+commit 2427109789aa7b5922c4cff50cab418650d8da96
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Mon Sep 16 15:55:53 2013 +0000
+
+    Use Slim MMS
+
+commit 704549231bb4a8f7b8b2009900750c281b1380d3
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Tue Sep 10 13:41:11 2013 +0000
+
+    Update
+
+commit 5628d6063ae8c1ac5431a7668893504a9f9036d4
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Mon Sep 9 22:07:57 2013 +0000
+
+    Use my Device for Liquid
+
+commit 3f5e35782f541c9d4e37e4a22efa0652ef97fd81
+Author: Cl3Kener <cl3kener@gmail.com>
+Date:   Mon Sep 9 17:35:20 2013 -0400
+
+    Remove Tons of Stuff
+
+commit 8ba3828ade443a6d3dc6b608fb4e855de85d6a8e
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Mon Sep 9 18:09:10 2013 +0000
+
+    Fix
+
+commit fa4a0a3ad008a92603287998693c469e7fc47af7
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Mon Sep 9 18:06:44 2013 +0000
+
+    Use my Vendor Samsung
+
+commit fd9b7af7fdb2a283dab61919dcb261a67e7253c8
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Mon Sep 9 17:29:13 2013 +0000
+
+    Track BlueExt from CM
+
+commit 7c0e43088cc4c89433a8394c299b22062b03ad48
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Sun Sep 8 21:49:36 2013 +0000
+
+    Blue Torch
+
+commit 6dc7c0da68ddee58c3eec2d772988a528307420f
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Sun Sep 8 17:50:47 2013 +0000
+
+    Try CyanKang Superuser to avoid waiting time
+
+commit bec7f328b2f371e3af5563fe5ad652bd06c5b3a5
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Sun Sep 8 06:33:02 2013 +0000
+
+    Good Derp!
+
+commit 48de9aa8b5095ee80a9e301710514699147eea24
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Sun Sep 8 06:31:42 2013 +0000
+
+    Try My Versions :)
+
+commit fb6240307d495abacaa768d219e5de8ac69f6a62
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Sun Sep 8 04:08:21 2013 +0000
+
+    My Liquid Version
+
+commit d44093acdc1fbc375c75e1fbe52bf210dd685bbb
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Sun Sep 8 03:15:43 2013 +0000
+
+    Use my Build
+
+commit c906c0abae642d6c99a29295688fd1024f7b5779
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Sun Sep 8 02:40:02 2013 +0000
+
+    Derpy Duck!
+
+commit f0c78ce82de7b065328d87ed2f53737759833d81
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Sun Sep 8 02:33:58 2013 +0000
+
+    Use My LS Repos
+
+commit caeda8089443abbf3781c0dc6c2e383594a8e8d5
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Sun Sep 8 02:02:03 2013 +0000
+
+    Update to latest LiquidSmooth
+
+commit 928a9a5506930ec09332504bd22edcf48c0111cd
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Sat Sep 7 13:11:41 2013 +0000
+
+    Awesome Beats
+
+commit f59e237e1ed47080b171eeff3135c61633839e06
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Sat Sep 7 12:46:30 2013 +0000
+
+    Mine!
+
+commit 9cf04fdabd76f0112011cb2388d508dd8b64347e
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Fri Sep 6 19:39:53 2013 +0000
+
+    github remote
+
+commit 1ae1ef85ab9220d142628fe5362867727a2d9106
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Fri Sep 6 19:32:12 2013 +0000
+
+    Hercules Dependencies
+
+commit 9d55a2118e1f866f9df721c39b8f89c33dbc72f5
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Fri Sep 6 18:58:54 2013 +0000
+
+    Update Liquid
+
+commit 7373dea72df68fed12f7fcd8d2d54e3f03a73bfb
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Sun Aug 18 05:05:35 2013 +0000
+
+    Add github remote
+
+commit 4c81b5b42baed2cf14219054cbc211d5ffb583bf
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Sun Aug 18 03:55:33 2013 +0000
+
+    Remove ATM
+
+commit 716a3c147e9f66ec2dbcae1eb3af3fdb19f97369
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Sat Aug 17 23:26:55 2013 -0400
+
+    Update to 4.3
+
+commit de0bf62970567e69e47f15eaba8a309290ede2dc
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Thu Aug 1 17:55:28 2013 +0000
+
+    Try CM Bluetooth
+
+commit 9f5c7c38ee007f13d149b4c8d33f1baf638d998f
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Thu Aug 1 04:24:37 2013 +0000
+
+    Tweaked CM Kernel
+
+commit 986f0cce73824198ec5e8f22a63b41462f1ad7c9
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Sun Jul 28 20:44:21 2013 +0000
+
+    Update Externals
+
+commit 0b5758a8d072a8f9098c648aa1cb8327b6a36b51
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Sun Jul 28 04:26:36 2013 +0000
+
+    Linaro 4.8.2
+
+commit 0aec9c9ebcc79d1701cd181def8a40f7cbc67f1c
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Tue Jul 23 06:19:21 2013 +0000
+
+    Build with Lite Kernel
+
+commit 723ac60d54e5968aec4e7aea51d810586971dd0b
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Sun Jul 21 08:28:28 2013 +0000
+
+    Update Externals
+
+commit d5f11b61d624af3684792d1af9224052713e6fe5
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Sun Jul 14 17:05:27 2013 +0000
+
+    Add Kernel Change msm7k pointer
+
+commit 7d3d2808f6aa3749e618957cdb9378c6ba1afa10
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Fri Jul 12 02:25:47 2013 +0000
+
+    Updated to latest LiquidSmooth
+
+commit a5deca370deb6da5fccc0fac963d5fe41eaef312
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Mon Jul 1 08:46:49 2013 +0000
+
+    Fix Pointer
+
+commit 03a836dae52afb11c5855b342bda263bae42cd93
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Sun Jun 30 07:45:51 2013 +0000
+
+    Change Repo Init Command
+
+commit 4081e250a3782a3f85fe04d7bb64c7ebfed76fcd
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Fri Jun 28 16:47:14 2013 +0000
+
+    Update XML
+
+commit f894097151ecb1c7663150db60e64eaedb584882
+Author: Cl3Kener <Cl3Kener@gmail.com>
+Date:   Fri Jun 28 16:39:19 2013 +0000
+
+    Remove Useless Stuff
+
+commit b2814cf2f9706f56ef219e0ce6e59f1b83537035
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Wed Jun 26 11:25:15 2013 -0400
+
+    Track CMs calendarprovider for privacyguard
+
+commit 83fcf95340a193c5a7888538041039d12ac0ec28
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Wed Jun 26 10:48:52 2013 -0400
+
+    Track CMs new CAF media repo
+
+commit a18aff3dcb95a1c1616cf09300d8f73f541c6e0b
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Wed Jun 26 03:22:01 2013 -0400
+
+    Changed my mind lets track skia
+
+commit a82bee595dd8f3b7615af6d234eb3d66543efb48
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Wed Jun 26 03:16:04 2013 -0400
+
+    Track these externals upstream (loosethisskin)
+
+commit 7d16983e3f743118464f19ff9178ffdf3023e49a
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Wed Jun 26 01:38:31 2013 -0400
+
+    Lets track CMs camera repo now
+
+commit 89471c64c2ca703de464e7a816352c11f475c591
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Wed Jun 26 01:37:50 2013 -0400
+
+    We don't really need this included
+
+commit ed56a5096ebff4de8f068bb3f433bf1e4f19449e
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Wed Jun 26 01:36:28 2013 -0400
+
+    Switch back to google gcc 4.7 toolchain
+
+commit d8c38c85a54a9f436ac56477309ed12b539d299e
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Wed Jun 26 01:34:23 2013 -0400
+
+    Remove unsupported device trees
+
+commit 8b87d41eae2479ef23474adc2686db3041fa2699
+Author: droyd <mike3582.mw@gmail.com>
+Date:   Sat Jun 22 22:57:14 2013 -0300
+
+    remove htc
+
+commit ca0c0a14927e17779a141aae8065295cb9a5875b
+Author: aways <aways@outlook.com>
+Date:   Fri Jun 21 15:29:33 2013 +0200
+
+    Derp
+
+commit 2827a9e1f01efb89ca78cb7361969154b5838b0e
+Merge: 0d9f576 0371aa6
+Author: aways <aways@outlook.com>
+Date:   Fri Jun 21 15:28:17 2013 +0200
+
+    Merge branch 'jb2' of github.com:LiquidSmooth/android into jb2
+
+commit 0d9f576e9edab5136f37e39af58887949f2ef0f6
+Author: aways <aways@outlook.com>
+Date:   Fri Jun 21 15:28:02 2013 +0200
+
+    Track HALO
+
+commit 0371aa6df1bfc862520238314277cb97e65eb9c5
+Author: droyd <mike3582.mw@gmail.com>
+Date:   Fri Jun 21 04:15:17 2013 -0300
+
+    update htc to 3.4 kernel friendly
+
+commit 016b7f4e9ee823feedf06d6c53b19b53cff92497
+Author: aways <aways@outlook.com>
+Date:   Wed Jun 19 03:13:41 2013 +0200
+
+    Track Own libcore
+
+commit 6698afecfa7279cfc0d7f1ccdf397c397427e310
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Tue Jun 18 00:49:27 2013 -0400
+
+    Track our samsung smdk4412 qcom common
+
+commit 3150981d5833e192b3dc4af7e4518b5422848a98
+Merge: 0e79623 eb6b260
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Mon Jun 10 04:17:23 2013 -0400
+
+    Merge branch 'jb2' of git://github.com/LiquidSmooth/android into jb2
+    
+    Conflicts:
+    	default.xml
+
+commit 0e79623e1ac18e12bb3e7457c81d37ec5321a5a9
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Mon Jun 10 04:15:40 2013 -0400
+
+    Track our external skia/qcom display
+
+commit eb6b260d56eca224201959986601b5ed44c0797f
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Mon Jun 10 03:47:47 2013 -0400
+
+    I am getting very sleepy derp
+
+commit 46b7247940586266e310e25624e03ba45ac47d9a
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Mon Jun 10 03:34:59 2013 -0400
+
+    Extra liquid butter sauce anyone?
+
+commit 867f8864d7abdf98f360dd0f1b34c474e9c38876
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Sat Jun 8 14:30:02 2013 -0400
+
+    Track our own external bluedroid
+
+commit 4242bc7d7e164742191bed36f8e9cb4f49e9b22f
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Sat Jun 8 14:01:57 2013 -0400
+
+    Track CM frameworks vcard for bluetooth
+
+commit 2f8c8a37d333c966aee84d16cbbe8272903658c4
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Sat Jun 8 04:07:49 2013 -0400
+
+    Cleanup Remotes/Track Moar AOSP & Linaro Repos
+
+commit e55467d2667e99a8a78d19e6ec64384949193b54
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Wed Jun 5 02:29:32 2013 -0400
+
+    track our msm7k hardware and android ril
+
+commit 686084f26fe8a665e629a13b9055d8b2a0bd922e
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Wed Jun 5 00:17:40 2013 -0400
+
+    track our own email repo
+
+commit 1105a99fa614392b31ae97762e64f1909aef291d
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Tue Jun 4 22:42:42 2013 -0400
+
+    switch to prebuilt linaro toolchain
+
+commit ec03f91593790e5b1e79b7271b0516bd07f506b2
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Tue Jun 4 22:12:00 2013 -0400
+
+    remove unwanted kernel manifests for now
+
+commit 5ad86dd99298871141107a11e671ca66d4c57422
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Tue Jun 4 22:09:50 2013 -0400
+
+    track our performance control/cleanup remotes
+
+commit 34dde606e4e21fe1895055575a96590ad61dd040
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Tue Jun 4 17:23:46 2013 -0400
+
+    change i9505 repo name to jfltexx
+
+commit 02989ed6bbbdf27fe7001bbd0d7d5dc6e46a0b75
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Tue Jun 4 17:21:50 2013 -0400
+
+    cleanup manifest remote header whitespace
+
+commit 0a0f650d2b3015da5e96c2e5d8c7c6ef7c63b929
+Author: ptichalouf <ptichalouf@gmail.com>
+Date:   Tue May 28 07:07:57 2013 +0200
+
+    add custom kernel for s2 dorimanx
+
+commit 9fc2aff217e0c9b648e9883ceed7a22af25c0b77
+Author: ptichalouf <ptichalouf@gmail.com>
+Date:   Tue May 28 05:49:30 2013 +0200
+
+    add so much kernel with faux123
+
+commit 193b1657d843b29bb8a563f25e3a872c08daa9b5
+Author: Ptichalouf <ptichalouf@gmail.com>
+Date:   Mon May 27 14:00:00 2013 +0300
+
+    Update default.xml
+    
+    add faux123 for mako kernel and grouper
+
+commit ee017071214e11547193febaffc585d6e96a517f
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Sun May 26 20:22:26 2013 -0400
+
+    Cleanup Whitespace/Unwanted Remote & Repo
+
+commit c4f7be3fc6c1eeef3b12842a2b63a6a8c64fc410
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Sun May 26 19:19:00 2013 -0400
+
+    Add Galaxy S4 Kernel Manifest
+
+commit 721cba4de893189adc8544e907e329cad6c602bf
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Sun May 26 19:16:12 2013 -0400
+
+    Change JFltexx To i9505 Repo
+
+commit 5533540af18de5a134d286adf6eed45fbcc29035
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Sun May 26 17:15:36 2013 -0400
+
+    New Galaxy S4 Repos (All Variants)
+
+commit ab147697f202450cfe5c81ace5b12f7aacb70f35
+Author: droyd <mike3582.mw@gmail.com>
+Date:   Sun May 26 15:00:30 2013 -0300
+
+    Update default.xml
+
+commit 5803760f3ceefdcaf2b4b1c007284e06d48b29e9
+Author: Ptichalouf <ptichalouf@gmail.com>
+Date:   Sun May 26 12:45:55 2013 +0200
+
+    Update default.xml
+
+commit 51e3cfd52d64a77235b30b91832370fec9c7f52d
+Author: ptichalouf <ptichalouf@gmail.com>
+Date:   Thu May 23 21:04:03 2013 +0200
+
+    fix script for nightly
+
+commit 09d49815136e9763fc02be1ccf0cbe7cb4e45fa5
+Author: ptichalouf <ptichalouf@gmail.com>
+Date:   Thu May 23 20:39:52 2013 +0200
+
+    add
+
+commit c50ff26e6a517480abdde41ef93f8f822cf63c8f
+Author: ptichalouf <ptichalouf@gmail.com>
+Date:   Thu May 23 20:37:17 2013 +0200
+
+    add some example
+
+commit 9567db276fc7594f77a5f5229f8c3aec3d96261f
+Author: ptichalouf <ptichalouf@gmail.com>
+Date:   Thu May 23 20:29:01 2013 +0200
+
+    some Buildscript
+
+commit 4b2b9d5584df8d4f42d4f383081d80555e331260
+Author: ptichalouf <ptichalouf@gmail.com>
+Date:   Thu May 23 18:43:08 2013 +0200
+
+    add description faux123
+
+commit 9cf2931bcd3b1e397c993268cefc5f23d4ab79cb
+Author: ptichalouf <ptichalouf@gmail.com>
+Date:   Thu May 23 18:39:24 2013 +0200
+
+    add faux to description
+
+commit a23a54cda962ae66bed4daca44c413379ad6ac61
+Author: ptichalouf <ptichalouf@gmail.com>
+Date:   Thu May 23 17:03:28 2013 +0200
+
+    add grouper kernel by faux123
+
+commit ea0c2c1b27c9d1fe4ccba7d806f4855bbad5ecf5
+Author: ptichalouf <ptichalouf@gmail.com>
+Date:   Thu May 23 15:30:38 2013 +0200
+
+    add mako
+
+commit 23889b5926a8f9b334adc30173e9a2a12cfbc79e
+Author: ptichalouf <ptichalouf@gmail.com>
+Date:   Thu May 23 15:26:03 2013 +0200
+
+    add mako with faux123 kernel
+
+commit 2e43ef95c8b250df6ad746c6d703fa42a07c5697
+Author: ptichalouf <ptichalouf@gmail.com>
+Date:   Thu May 23 15:13:18 2013 +0200
+
+    add S2
+
+commit 97733de204d09b309915b9970ebbc39359dae623
+Author: ptichalouf <ptichalouf@gmail.com>
+Date:   Thu May 23 13:47:34 2013 +0200
+
+    m7
+
+commit 2136e040815b51f97f3019bfaa38e279581e9e34
+Author: droyd <mike3582.mw@gmail.com>
+Date:   Thu May 23 06:09:12 2013 -0300
+
+    clean up
+
+commit 238fe20af295702f46c95ba6c09288053bbc52d9
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Sat May 18 13:26:56 2013 -0400
+
+    Readd SamsungServiceMode Package Repo
+
+commit 8cf7bd54ba07a7a5e1a54964e34d9f49c8f51347
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Sat May 18 13:23:14 2013 -0400
+
+    Revert "Device and app needed for Infuse4g"
+    
+    This reverts commit 66fd8d15df76636313f536176c83db591d69c0df.
+
+commit 5c4853d532703dc96dc5e8bc65ba33854453568e
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Sat May 18 13:22:25 2013 -0400
+
+    Revert "Add infuse4g"
+    
+    This reverts commit f01c04fd7c73bf29814ab3a4315d0f6cff7092eb.
+
+commit 15fa7d8cbae8ba7ff1b705bcfcf6af907b88480d
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Sat May 18 12:53:35 2013 -0400
+
+    Add HTC One Common Repos
+
+commit 78560f3d6f90f7d1bf9f23d0a1a7d0aafdd62adb
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Fri May 17 21:57:54 2013 -0400
+
+    Revert "added HTC Glacier"
+    
+    This reverts commit 97cab7a681e62d87820bde78b00d6cd7f1f78d10.
+    
+    Conflicts:
+    	default.xml
+
+commit c5bd88cb3ff6904c5ffe6432e90b9bf46e0f0e90
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Tue May 14 15:55:44 2013 -0400
+
+    Remove Remote And Repo (Don't Exist)
+
+commit 9176113776049183718962956c62179ce8b41979
+Author: Sean Hoyt <seanhoyt963@gmail.com>
+Date:   Fri May 3 22:10:32 2013 -0500
+
+    Add HTC one itself herp ah derp
+
+commit d8d2d1e7ecb4da671e31361b092769b063707ddd
+Author: Sean Hoyt <seanhoyt963@gmail.com>
+Date:   Fri May 3 19:30:28 2013 -0500
+
+    Track needed HTC ONE device
+
+commit 66fd8d15df76636313f536176c83db591d69c0df
+Author: Sean Hoyt <seanhoyt963@gmail.com>
+Date:   Fri May 3 17:23:17 2013 -0500
+
+    Device and app needed for Infuse4g
+
+commit 6e716a84ff9dec00ae710c9b1778357b6cc05770
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Fri May 3 16:43:48 2013 -0400
+
+    Remove VoiceDialer From Manifest
+
+commit 6e31c20f3af809ccb11e1d1a07e0490556763704
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Fri May 3 14:42:53 2013 -0400
+
+    Track Our External Oprofile
+
+commit 0dcfc54af9cf3db47707651d49ba90eee9ef9d70
+Author: Sean Hoyt <seanhoyt963@gmail.com>
+Date:   Mon Apr 29 21:20:44 2013 -0500
+
+    added htc legacy common files
+
+commit 97cab7a681e62d87820bde78b00d6cd7f1f78d10
+Author: Sean Hoyt <seanhoyt963@gmail.com>
+Date:   Mon Apr 29 21:09:24 2013 -0500
+
+    added HTC Glacier
+
+commit 690a199ad21d00e4de605ba28a8994b8a0912859
+Author: Sean Hoyt <seanhoyt963@gmail.com>
+Date:   Sun Apr 28 15:42:46 2013 -0500
+
+    derp fix stupid spaces
+
+commit e676c82e77cb33a353923ef4faa868cea6587673
+Author: Sean Hoyt <seanhoyt963@gmail.com>
+Date:   Sun Apr 28 14:52:14 2013 -0500
+
+    add htc ville
+
+commit f01c04fd7c73bf29814ab3a4315d0f6cff7092eb
+Author: Sean Hoyt <seanhoyt963@gmail.com>
+Date:   Sun Apr 28 14:50:17 2013 -0500
+
+    Add infuse4g
+
+commit c1ba677cee2fbbf64f9743c9e8d4ea665609ce87
+Author: Sean Hoyt <seanhoyt963@gmail.com>
+Date:   Sun Apr 28 14:42:40 2013 -0500
+
+    Track are own htc vender
+
+commit 6e5db0ce454b959d3115d3b3202891a875626903
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Sat Apr 27 17:23:31 2013 -0400
+
+    Track Our New Externals/System Extras
+
+commit c0d5661299ca3b710318bab9c111b42c1240fe4c
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Tue Apr 23 23:30:33 2013 -0400
+
+    Track Our Own MediaProvider Repo
+
+commit 87ecff5f71ecf2749e7ccffcc3ff881e23dd1e36
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Tue Apr 23 22:56:35 2013 -0400
+
+    Update Manifest Readme (Sync Kernel Source)
+
+commit 61c34722bd4069ce6243d8f575d514e83cb85d78
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Tue Apr 23 22:41:16 2013 -0400
+
+    Initial Import Of Kernel Manifests
+
+commit 73ddf9f60c2b7772777aa56e207220cb98df8790
+Author: Muhammed Nazim <mnm9994u@gmail.com>
+Date:   Thu Apr 18 13:23:12 2013 +0200
+
+    Off to JDQ39E
+    
+    Change-Id: I217aedb4419acebafa9f2f79001d3b999389351f
+    
+    Conflicts:
+    	default.xml
+
+commit 7effffb0ebaf744b9abea7a23be53c7d828aed48
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Mon Apr 15 18:17:51 2013 -0400
+
+    Track Browser/Camera/Gallery2 Upstream CM
+
+commit f83915619246e7451a074786c301a61009bc0592
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Thu Apr 11 01:06:22 2013 -0400
+
+    Lets Track Our Frameworks AV
+
+commit aafb466bbeca60836c39452ddb221694f3f335be
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Fri Apr 5 22:06:02 2013 -0400
+
+    Update LiquidSmooth Manifest/Use Google 4.7 Toolchain
+
+commit 96288e59fd1f0b740ab81a00cbcde7f60f8cd3b7
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Mon Apr 1 23:03:45 2013 -0400
+
+    Fix DownloadProvider Repo Name (OCD)
+
+commit 3aa85e4b0d64cb9459710ab3c537e128ced7e946
+Author: Mike Ramsay <ronaldramsayii@gmail.com>
+Date:   Sun Mar 31 14:08:19 2013 -0300
+
+    Update default.xml
+
+commit a842b557f3e240547aac086661a92f990e8dc870
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Mon Mar 25 22:15:27 2013 -0400
+
+    Track Smdk4412 Qcom Common From CM
+
+commit d9717b3003f57f82cff22080039a94fd55f106a3
+Author: Mike Ramsay <ronaldramsayii@gmail.com>
+Date:   Mon Mar 25 14:11:55 2013 -0300
+
+    Track own Contacts...
+
+commit 6478bdc2b49ada77ad93c828868a4cade2690ef4
+Author: Mike Ramsay <ronaldramsayii@gmail.com>
+Date:   Mon Mar 25 11:57:02 2013 -0300
+
+    "Revert" Track CM's browser...for now
+
+commit 237cbc897e527e0aac497580b5abadae03522af6
+Author: Mike Ramsay <ronaldramsayii@gmail.com>
+Date:   Mon Mar 25 11:53:26 2013 -0300
+
+    Track CM's browser...for now
+    
+    loosethisskin browser has compile issues..
+    
+    packages/apps/Browser/src/com/android/browser/BrowserSettings.java:282: error: cannot find symbol
+            settings.setWebSocketsEnabled(isWebSocketsEnabled());
+                    ^
+      symbol:   method setWebSocketsEnabled(boolean)
+
+commit 11d1ac88dd5a226b41935c8fd909e3b76c7566ef
+Author: Nitish Saxena <toxicthunder99@gmail.com>
+Date:   Sun Mar 24 23:35:51 2013 +0530
+
+    Add International Galaxy SII (2/3)
+
+commit bf4d9db6d8de75c8c68ac16ea0949913a970a9b9
+Author: Nitish Saxena <toxicthunder99@gmail.com>
+Date:   Sun Mar 24 13:58:10 2013 +0530
+
+    Track CM
+
+commit 28775a5604df222231e85fdee8acc55edfe08eac
+Author: Nitish Saxena <toxicthunder99@gmail.com>
+Date:   Sun Mar 24 11:51:07 2013 +0530
+
+    Add n7000 and s2-common
+
+commit dc98dfe81933b812302e149f75ca277b4ef2076e
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Fri Mar 22 22:04:58 2013 -0400
+
+    Remove Unwanted External/Switch To Codefirex TC
+
+commit c272562f2eff7fa95f21b6baa76456cabf4a4920
+Author: Mike Ramsay <ronaldramsayii@gmail.com>
+Date:   Wed Mar 13 23:54:21 2013 -0300
+
+    Track our own frameworks_native
+
+commit dc749f4800bf07f4381093c0a6e295daec10bd0e
+Author: Mike Ramsay <ronaldramsayii@gmail.com>
+Date:   Wed Mar 13 23:52:26 2013 -0300
+
+    Track our own bionic
+
+commit eabadd2a99ebf1bac383892ca1d02d800e347629
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Tue Mar 12 19:42:44 2013 -0400
+
+    Cleanup Some Repos/Track Some Upstream
+
+commit 5a601fee4db5d7e35adab1f3ace3ceddd4597f4a
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Mon Mar 11 03:36:23 2013 -0400
+
+    Derp This Repo Don't Exist
+
+commit 0aab06ad6b00b2ee870e35a8f6a4377733a92fac
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Mon Mar 11 03:34:42 2013 -0400
+
+    Oops We Shoud Really Track Ours
+
+commit 2c45be7860f386f91ba0fa04072ba68b7b45b8a6
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Mon Mar 11 03:30:43 2013 -0400
+
+    Cleanup/Update Device Trees In Manifest
+
+commit 84382022d5ed66a2fc5e0126d00dc207c8840b68
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Mon Mar 11 01:32:21 2013 -0400
+
+    Add Qualcomm QRNGD External From CM
+
+commit 3f126f20aa3a45ef634706d73db2893fab3e61b7
+Author: itsmikeramsay <ronaldramsayii@gmail.com>
+Date:   Tue Mar 5 13:00:37 2013 -0500
+
+    Track our own wallpaper app
+
+commit 403858a3dfc05f424c5c83ccaaf7c290279d012d
+Author: dhacker29 <davidhackerdvm@gmail.com>
+Date:   Tue Mar 5 01:43:52 2013 -0600
+
+    Build zipalign
+
+commit 7d68e59cfd892c5e587358bb340e6c6517cbd7ea
+Author: Mike Ramsay <ronaldramsayii@gmail.com>
+Date:   Mon Mar 4 13:00:17 2013 -0500
+
+    Need this for Performance Control
+
+commit b9ffeefc4423dfb1ab6efdb0164d0129c94e3f6f
+Author: itsmikeramsay <ronaldramsayii@gmail.com>
+Date:   Mon Mar 4 12:58:34 2013 -0500
+
+    Removed wrong lines, fixed
+
+commit b4ed63cd7b27b16ab7a794cab6216e78c624e8fb
+Author: itsmikeramsay <ronaldramsayii@gmail.com>
+Date:   Mon Mar 4 12:43:11 2013 -0500
+
+    Remove unneeded lines in manifest
+
+commit 66e45e14cd76dd85547dea20eefebbee335403fa
+Author: itsmikeramsay <ronaldramsayii@gmail.com>
+Date:   Mon Mar 4 12:24:32 2013 -0500
+
+    Track our own linaro toolchain
+
+commit bee9e37b234d99cc9841cbde45c9b81d1bc3ffe6
+Author: itsmikeramsay <ronaldramsayii@gmail.com>
+Date:   Thu Feb 28 19:10:12 2013 -0500
+
+    Track new superuser
+    Koush's superuser
+
+commit b603364f0bd757d47c35c8d63e11b1c5070cd459
+Author: itsmikeramsay <ronaldramsayii@gmail.com>
+Date:   Thu Feb 28 16:01:37 2013 -0500
+
+    Revert track superuser
+    Still figuring out a build error
+
+commit fbfb0f6b09a0a514f139184fb0e66341da261452
+Author: itsmikeramsay <ronaldramsayii@gmail.com>
+Date:   Thu Feb 28 14:47:21 2013 -0500
+
+    Track Superuser
+    Credit Koush
+
+commit ee4cf9dca851db421c0cc2fe1ced7be22207c930
+Author: itsmikeramsay <ronaldramsayii@gmail.com>
+Date:   Tue Feb 26 10:35:50 2013 -0500
+
+    Track our own Camera and gallery
+
+commit 4939b3888ec64d0564418ab972e673984543caf3
+Author: itsmikeramsay <ronaldramsayii@gmail.com>
+Date:   Mon Feb 25 10:09:02 2013 -0500
+
+    Track DashClock,
+    this app is dope!!
+
+commit 0b2ec5354d68fd26440a1578dec2671c704f6010
+Author: itsmikeramsay <ronaldramsayii@gmail.com>
+Date:   Mon Feb 25 02:15:12 2013 -0500
+
+    Track our own Mms
+    Thanks CM
+
+commit dc011e7ca7d7ccb5494e8bb2d9115cb9d98de0fb
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Fri Feb 22 17:51:28 2013 -0500
+
+    Track Our Qualcomm Media Repo
+
+commit 1a38de614bf884ceee05a4787a124a4054149c39
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Fri Feb 22 17:02:18 2013 -0500
+
+    Use Latest Linaro Toolchain v4.7.3
+
+commit 829e27cf78839e2ec4f675596e7d41f8d9f73724
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Fri Feb 22 13:35:01 2013 -0500
+
+    Fix Revision Exynos5 Derp
+
+commit f2c61cbc245ef3a3e0dd9339e24d13d0f4cd920c
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Fri Feb 22 13:32:38 2013 -0500
+
+    Cleanup Manifest After Merge/Track CMDev Linaro Upstream
+
+commit 5abb314253a7c339e105b409fc980065cfbab64d
+Author: jdkoreclipse <jdkoreclipse@gmail.com>
+Date:   Fri Feb 22 11:51:45 2013 -0500
+
+    fix sync
+
+commit 4bfe9a433cb9ee6c2afe73be65718faa7a3925f8
+Author: itsmikeramsay <ronaldramsayii@gmail.com>
+Date:   Mon Feb 18 23:54:33 2013 -0500
+
+    Track CM's "cm-10.1" for Camera and Gallery
+    Take advantage of the latest commits
+
+commit 4c5d4a4a24ccfbec08e8f71a69628b5fde94630a
+Author: dhacker29 <davidhackerdvm@gmail.com>
+Date:   Mon Feb 18 20:22:19 2013 -0600
+
+    Track LatinIME source
+
+commit ae53d4fa46bd8e59cb0ff1f9e19d3f074858a35c
+Author: Sean Hoyt <seanhoyt963@gmail.com>
+Date:   Sat Feb 16 19:28:03 2013 -0600
+
+    added htc pyramid
+    
+    should be ready now
+
+commit 7cd087e14f6f53d36fbaa96f3ab753617b8cf1de
+Author: itsmikeramsay <ronaldramsayii@gmail.com>
+Date:   Fri Feb 15 16:59:49 2013 -0500
+
+    Track VoiceDialer
+    Thanks AOKP
+
+commit aee71a9a249b1034b094da029891bf9a1bc293c0
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Fri Feb 15 10:27:44 2013 -0500
+
+    Remove Some Premature Device Repos
+
+commit be0b3e19c0384dc084801ff8622fb8fabe9132cd
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Fri Feb 15 10:12:42 2013 -0500
+
+    Add Toroplus Repo To Manifest
+
+commit b2bbe79dbfec5615bd1a5d45832fe44aadfed60f
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Fri Feb 15 01:23:02 2013 -0500
+
+    Inject Some Liquid Into Repo
+
+commit 94e3cf1ef256d578d9cc91cdf43d1e8443c03380
+Author: dhacker29 <davidhackerdvm@gmail.com>
+Date:   Wed Feb 13 15:44:35 2013 -0600
+
+    Track fixed Mms
+
+commit 2770a5ba9db8154a9da7d9d3fc3af6f1311d5008
+Author: dhacker29 <davidhackerdvm@gmail.com>
+Date:   Wed Feb 13 15:26:35 2013 -0600
+
+    Track fixed DeskClock
+
+commit 14cd2b256c54ead78af44aa0540f01a81163b60f
+Author: itsmikeramsay <ronaldramsayii@gmail.com>
+Date:   Wed Feb 13 14:56:30 2013 -0500
+
+    Track CM's Mms
+
+commit cd5142e85c55bedabf38b6c5a65ad6cfbace5a0d
+Author: dhacker29 <davidhackerdvm@gmail.com>
+Date:   Wed Feb 13 04:43:32 2013 -0600
+
+    Use cm-10.1 for DeskClock for now
+
+commit d900a9c6e910c41e72c004a478ee3e8d132b05c7
+Author: dhacker29 <davidhackerdvm@gmail.com>
+Date:   Wed Feb 13 04:36:45 2013 -0600
+
+    hardware/samsung still on cm-10.1
+
+commit 41e4786fc4ea5a01a0cf8d721cdbcc5a26057a41
+Author: dhacker29 <davidhackerdvm@gmail.com>
+Date:   Wed Feb 13 04:34:23 2013 -0600
+
+    Track cm's mr1.1-staging branches
+
+commit c08379392605a51715b31254bf438e1d33159683
+Author: dhacker29 <davidhackerdvm@gmail.com>
+Date:   Wed Feb 13 03:14:05 2013 -0600
+
+    Track updated contacts
+
+commit 8bb961de02a8a532e9cc878d4dd491ff9d4c0b81
+Author: dhacker29 <davidhackerdvm@gmail.com>
+Date:   Wed Feb 13 02:40:15 2013 -0600
+
+    Track updated Bluetooth app
+
+commit a5078ea1bd288d75a98b0d0c8aa7f9d6e5c57e8a
+Author: dhacker29 <davidhackerdvm@gmail.com>
+Date:   Wed Feb 13 01:57:21 2013 -0600
+
+    track updated packages
+
+commit a1d303a9081e6dde5d21c3d8ed0a99003a4d808c
+Author: dhacker29 <davidhackerdvm@gmail.com>
+Date:   Wed Feb 13 00:38:52 2013 -0600
+
+    track our own update frameworks slang and support
+
+commit b02661471756e874390168911f2883758115d267
+Author: dhacker29 <davidhackerdvm@gmail.com>
+Date:   Tue Feb 12 16:22:44 2013 -0600
+
+    Track our own libhardware_legacy for 4.2.2
+
+commit 91d7336d9cb1f81bc377a27a5433300030bca712
+Author: dhacker29 <davidhackerdvm@gmail.com>
+Date:   Tue Feb 12 13:21:05 2013 -0600
+
+    derp should be 4.2.2_r1 not r_1.1 :)
+
+commit 2f66de83b1698922b7de079eca4eb9bb636ed63f
+Author: dhacker29 <davidhackerdvm@gmail.com>
+Date:   Tue Feb 12 13:17:58 2013 -0600
+
+    track our own system/netd to fix ti wifi tethering AP name
+
+commit f2ee0c9215fa879e76703b95925ca4e3d18459c8
+Author: itsmikeramsay <ronaldramsayii@gmail.com>
+Date:   Tue Feb 12 13:05:09 2013 -0500
+
+    Time to get some 4.2.2 stuffs
+
+commit 8b0552cb836cc219018957a88eed49d0f71f6f1f
+Author: Sean Hoyt <seanhoyt963@gmail.com>
+Date:   Tue Feb 12 08:21:43 2013 -0600
+
+    added htc ace
+
+commit aaed055d1bbb1f14f58aec48d1bdc19e1b26b380
+Author: itsmikeramsay <ronaldramsayii@gmail.com>
+Date:   Tue Feb 12 07:34:27 2013 -0500
+
+    Fixed revision name for vendor/htc
+
+commit fa395845cc26df311b59a0dc285f363c62f0513f
+Author: Sean Hoyt <seanhoyt963@gmail.com>
+Date:   Tue Feb 12 01:53:14 2013 -0600
+
+    added htc pyramid
+
+commit 70b765239b746b59413f1d151e0620ad82706459
+Author: Sean Hoyt <seanhoyt963@gmail.com>
+Date:   Tue Feb 12 00:52:54 2013 -0600
+
+    Changed my added devices to jb2
+
+commit 5a18a58d35ff02e1a547e3826c770465658977b4
+Author: Sean Hoyt <seanhoyt963@gmail.com>
+Date:   Tue Feb 12 00:30:00 2013 -0600
+
+    Revert bdaf332
+    
+    switched to liquidsmooth
+
+commit bdaf332c3b8f382d5c347d776d3b8605a045278f
+Author: Sean Hoyt <seanhoyt963@gmail.com>
+Date:   Tue Feb 12 00:25:41 2013 -0600
+
+    Added elginsk8r
+    
+    Added him because he has a more complete vender for HTC phones
+
+commit cde432ecdbd99d41a8da8d6f0018e44b19a977cd
+Author: Sean Hoyt <seanhoyt963@gmail.com>
+Date:   Tue Feb 12 00:22:03 2013 -0600
+
+    added glacier
+
+commit 0b2ab2d237dd761910080aed0fe04b1e667e3b8c
+Merge: dc88ce4 83027b4
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Tue Feb 12 00:45:12 2013 -0500
+
+    Merge branch 'jb2' of git://github.com/LiquidSmooth/android into jb2
+
+commit dc88ce4310da509be0bfaa3813fab210e078918f
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Tue Feb 12 00:44:46 2013 -0500
+
+    Track Our MMS Package Repo
+
+commit 83027b40b3e2bdac2aa83d8f15d33c13967cf873
+Author: Sean Hoyt <seanhoyt963@gmail.com>
+Date:   Mon Feb 11 23:13:26 2013 -0600
+
+    Added htc ville/Asus tf700t to manifest
+
+commit 87038018a9a93cb0eadd0b0c51d2082040210873
+Author: Sean Hoyt <seanhoyt963@gmail.com>
+Date:   Mon Feb 11 23:04:54 2013 -0600
+
+    Added htc blobs
+
+commit d55c99bcbacedfac0ad93b4bae93f0813c22def5
+Author: Sean Hoyt <seanhoyt963@gmail.com>
+Date:   Mon Feb 11 22:23:21 2013 -0600
+
+    Update build code
+    
+    revert if it is wrong but the originals don't seem to work.
+
+commit 7dfd1610bb86d1d48cd24bfe4b2c2374eaa9175a
+Author: itsmikeramsay <ronaldramsayii@gmail.com>
+Date:   Mon Feb 11 22:45:38 2013 -0500
+
+    Track our own external/webkit
+    
+    Change-Id: I80c1695612044cd713deaeb9977e3db979a86ae5
+
+commit d9c59484821cca5a9f653a13d176a3fd8eadcd9a
+Author: dhacker29 <davidhackerdvm@gmail.com>
+Date:   Mon Feb 11 20:04:16 2013 -0600
+
+    Track our own wpa_8_ti to fix aliasing violations
+
+commit 5285fa9f6b8da2c7e3fc9a01c7b6399c8e93e925
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Mon Feb 11 15:07:15 2013 -0500
+
+    Fix External Webkit Name Derp
+
+commit e6b1a1da1c42a92f3d2db1bc984ea29ddd61e4c8
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Mon Feb 11 14:52:55 2013 -0500
+
+    Fix Remote Derpys Oopz
+
+commit dcf06701dabbb8dae64529e9af42b6b770d0f0d1
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Mon Feb 11 14:50:08 2013 -0500
+
+    More Butterz Upstream (Credit Kejar31/Loosethisskin)
+
+commit 04d291d5274c5a048b651ff8202546b27d40890f
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Mon Feb 11 14:32:58 2013 -0500
+
+    Track Browser Package From CM
+
+commit d9d9189019a5b5730ea91af24cd21bf8ab0b2fb7
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Mon Feb 11 14:30:54 2013 -0500
+
+    Remove Motorola Kernels From Manifest
+
+commit 2deb5efc28bd32c9afabf7eb2aed5d8a2e2f3f67
+Author: dhacker29 <davidhackerdvm@gmail.com>
+Date:   Mon Feb 11 01:19:39 2013 -0600
+
+    Add Motorola OMAP4 devices
+
+commit c1482eddafbc00fd943bdf5d7271f51ac1641dce
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Sun Feb 10 16:07:47 2013 -0500
+
+    Add i9305/Tilapia Repos/Remove D2 Cricket
+
+commit 641e00d480372e51653bf10cc0fc3ff1a0cbd99c
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Fri Feb 8 15:56:07 2013 -0500
+
+    Track Our Own Oprofile (Credit Carbon)
+
+commit d2cd4f09d3d08074080a41786eb7685b1f7f512b
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Sun Feb 3 18:47:26 2013 -0500
+
+    Track External Webkit From UnicornButta
+
+commit b497d184fc2fcebc7f56328a162f43c75a3c4711
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Sun Feb 3 18:02:45 2013 -0500
+
+    Track Our Browser And Webkit Again
+
+commit c7dd025213db51b6d827233d3bfb89d3db9e29e3
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Sun Feb 3 18:00:44 2013 -0500
+
+    Revert "Track External Webkit From CM"
+    
+    This reverts commit 128af58aebb1ba9125d106c1b5c305316a1192fa.
+
+commit 73d1fa80cef2be269f094b4aeced23882a4a4ce9
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Sun Feb 3 18:00:30 2013 -0500
+
+    Revert "Fix External Webkit Repo Name Derp"
+    
+    This reverts commit 607e9ca62557cb26fd41529b9dc07040c9f054a2.
+
+commit b5cb96ebf0faeef4e00aa7c981f4759a11840c72
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Sat Feb 2 14:44:51 2013 -0600
+
+    Switching oprofile revision to attempt linaro compliancy
+
+commit 4b8da62511dbae602cd1445d8a37e9b99083f133
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Sun Feb 3 04:48:46 2013 -0500
+
+    Track Our Hardware Ti Omap4 Repo
+
+commit 93e17f66f0e33c946528e3a2366322e36860530e
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Sun Feb 3 04:10:13 2013 -0500
+
+    Track Our LiquidSmooth Manifest Repo
+
+commit 607e9ca62557cb26fd41529b9dc07040c9f054a2
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Sun Feb 3 04:06:21 2013 -0500
+
+    Fix External Webkit Repo Name Derp
+
+commit 128af58aebb1ba9125d106c1b5c305316a1192fa
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Sun Feb 3 04:02:26 2013 -0500
+
+    Track External Webkit From CM
+
+commit 03fbf0ab2c5b3fb24f77c5db5d3214c0a009576c
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Sat Feb 2 14:01:55 2013 -0600
+
+    Switch to r1.2
+
+commit 4e4e9647f4649e9a0df68850aeff2e0fa9c52ff6
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Sun Feb 3 01:20:14 2013 -0500
+
+    Remove Stupid Gedit Backup Copy
+
+commit 126925c994b31089b5ffac6e5fde61ed260fb454
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Sun Feb 3 01:18:02 2013 -0500
+
+    Track Browser Upstream From CM
+
+commit 0fe7d644c9efde246cb62f2d140c48b0748d973f
+Author: Justin Rogers <kejar31@Ubuntu-Server.(none)>
+Date:   Sat Jan 26 21:50:15 2013 -0600
+
+    fix typo
+
+commit 9377a987863069ce78fc0995e0a3b5410baa3d09
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Sat Jan 26 17:50:10 2013 -0600
+
+    Track our own prebuilts for Linaro.
+
+commit e23ba0f46f666bcab62e3b6b6e821cf0b967da8a
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Thu Jan 24 13:55:37 2013 -0600
+
+    Track our own browser for now...
+
+commit 277cdafbc11d25054f28807522b2d3a7174347b3
+Author: Liquid <rjbirnesser@gmail.com>
+Date:   Thu Jan 24 12:13:34 2013 -0500
+
+    Track Our Own Frameworks Telephony
+
+commit c56101cdf0c7b26988ac6a3015dde78c09b67d6a
+Merge: e912f2e 1f923d5
+Author: Liquid <rjbirnesser@gmail.com>
+Date:   Tue Jan 22 19:57:24 2013 -0500
+
+    Merge branch 'jb2' of github.com:LiquidSmooth/android into jb2
+
+commit e912f2e49fce5a3831877a9b067a294f12595e68
+Author: Liquid <rjbirnesser@gmail.com>
+Date:   Tue Jan 22 19:56:55 2013 -0500
+
+    Fix GNote2 Device Order/Track Out Smdk4412 Common Repo
+
+commit 1f923d5859dafde2185ac530ea54b9f0294b8409
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Tue Jan 22 18:36:54 2013 -0600
+
+    Revert "Track our own webkit blend of CM and ISO11 fixes"
+    
+    This reverts commit 95b8b3be78b2f86efce010676ea4c281badadcab.
+    
+    Conflicts:
+    	default.xml
+
+commit aeb116e629752b956759612fcec85d203f3a9a7a
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Tue Jan 22 17:01:16 2013 -0600
+
+    Fix manifest
+
+commit 95b8b3be78b2f86efce010676ea4c281badadcab
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Tue Jan 22 16:51:50 2013 -0600
+
+    Track our own webkit blend of CM and ISO11 fixes
+    
+    Credit CM and UB and bernhard@linaro
+
+commit 0db652a3b2c8d3aa606197ae6ee8da3c03d5ab0f
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Tue Jan 22 14:39:33 2013 -0600
+
+    added common repo android_device_samsung_t0ltecdma
+
+commit 1ee41c9ce18c571c8f931e65156eb77ce9c34719
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Tue Jan 22 14:35:18 2013 -0600
+
+    last fix
+
+commit e670d3a428aec0e99e90c2d3ed2681069ba3970d
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Tue Jan 22 14:33:18 2013 -0600
+
+    remove pointless whitespace
+
+commit 988a168006980d0c5be5781a4a09206fb73e9db2
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Tue Jan 22 14:31:53 2013 -0600
+
+    Make token valid
+
+commit b8f80f30888aba957e096b9c4267a1b0a512e4b1
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Tue Jan 22 14:31:07 2013 -0600
+
+    Add the new CDMA devices to our manifest
+
+commit 2609e1dc541b62bdb8aaeec6d013b73962d05059
+Author: Liquid <rjbirnesser@gmail.com>
+Date:   Fri Jan 18 23:27:53 2013 -0500
+
+    Remove Unwated Qcom Test Repo
+
+commit 344742a9d3afd870f917ccfe7213bf51fb71425a
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Fri Jan 18 10:43:59 2013 -0600
+
+    Added n7105, note II tmobile, at&t, and whatever other candian carriers
+    
+    support this awesome device :D
+
+commit 59332248bf70328dacb2e48622b34e0af7c135ab
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Thu Jan 17 13:29:03 2013 -0600
+
+    Remove duplicate entry
+    
+    ...
+
+commit 165ac723686600dda6a455d1be0d58859b1b781f
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Thu Jan 17 13:11:02 2013 -0600
+
+    n7100: use CM generic device repos
+    
+    based off of this commit : https://github.com/ParanoidAndroid/android_vendor_pa/commit/5fb397d60a3eb31bfe8a7ad2c2291393346cc1a9
+
+commit 83d1a684c4d5a7f96499d88799c9957a1d11c4f2
+Author: Liquid <rjbirnesser@gmail.com>
+Date:   Thu Jan 17 12:16:13 2013 -0500
+
+    Readd Some Needed Repos To Manifest
+
+commit 5abef395d80ea9f466a78bdf3f625804aff544c7
+Author: Liquid <rjbirnesser@gmail.com>
+Date:   Wed Jan 16 14:25:34 2013 -0500
+
+    Track More Repos From AOSP :)
+
+commit 2efbb9fd12234ddede41265d4950ba60723e1d5d
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Wed Jan 16 09:15:09 2013 -0600
+
+    Might as well pair em up..
+
+commit f72a8f7e6a952bff53b815507336a1d02eac1bc2
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Wed Jan 16 09:11:38 2013 -0600
+
+    Switch to more linaro friendly fw_compile_libcc
+    
+    Cm's ...which includes this bernhard commit ^_^ https://github.com/CyanogenMod/android_frameworks_compile_libbcc/commit/4366a86dbe5c813ed58b482c8c52699f415df165
+
+commit 9835216052490e522b6c5653c4167dfa1b214d82
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Tue Jan 15 18:11:25 2013 -0600
+
+    Update gcc to 4.7 and switch rev of oprofile to fix build
+    
+    Creds to PA for the relentless pursuit of compiling source ;x
+
+commit ef3749c3b735ad4c727dbaae85e256b33d8d1e8d
+Author: Liquid <rjbirnesser@gmail.com>
+Date:   Sun Jan 13 16:34:23 2013 -0500
+
+    Fix Build By Using Older GCC 4.7 Toolchain
+
+commit 58c30dcd5c9fcbf353b63af50fc81e68087811b8
+Author: Liquid <rjbirnesser@gmail.com>
+Date:   Sun Jan 13 16:30:23 2013 -0500
+
+    Remove VoiceDialer Package From Manifest
+
+commit 9f6dc61085ebd95cdb986d0c9a59ce297db58787
+Author: Liquid <rjbirnesser@gmail.com>
+Date:   Sun Jan 13 14:03:32 2013 -0500
+
+    Remove CTS Repo Oops Derp
+
+commit 24167d2ef4df4aa7a9f49fa94f867418303b3279
+Author: Liquid <rjbirnesser@gmail.com>
+Date:   Sun Jan 13 14:02:05 2013 -0500
+
+    Track Bootable Repos From CM/Remove Some Unwanted Repos
+
+commit 9c1ca249631a716c0f0d4f13e78f0dd33d1912ec
+Author: Liquid <rjbirnesser@gmail.com>
+Date:   Sun Jan 13 13:54:10 2013 -0500
+
+    OCD Repo Renaming Grrrr
+
+commit 70dbf6f7d5dd863751f30a0fc868d6f4b3ffae3a
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Sat Jan 12 16:02:17 2013 -0600
+
+    bye bye legacy bootloader
+
+commit c3930c901eea25580947e7a2367a2fd8c991db57
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Sat Jan 12 15:44:58 2013 -0600
+
+    Track our own libcore to meld linaro and java fixes
+
+commit b64d042e71fbbf671ce71f6fe5352e6a07b840d9
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Sat Jan 12 15:42:44 2013 -0600
+
+    derps still happen
+
+commit 72f841faead6dd5a5a723ea0e4ab8de0e55e5d68
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Sat Jan 12 15:41:17 2013 -0600
+
+    Added more CM tracking for JAVA 6/7support
+
+commit 46d366f8e9155d60d85c2f5b702fdf486f47f906
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Sat Jan 12 15:37:38 2013 -0600
+
+    Track CM's android_sdk for more java 7 fixes
+
+commit fe97cfd790e4949a7f2efd0c668d654da95c7459
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Sat Jan 12 15:32:50 2013 -0600
+
+    Track our own development for java se 1.7
+
+commit 7ccdd63e66d733b030595692ec7c18dbc6843b00
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Sat Jan 12 14:14:30 2013 -0600
+
+    Revert external compiler-rt change
+    
+    Reverted.
+
+commit 9a53286774d9f56cafc308fdcdedf7acbbb672f4
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Sat Jan 12 14:08:31 2013 -0600
+
+    Track more UB repos
+    
+    along with the build commits we should fix the errors ;)
+
+commit a0d630c2d03950a00921f3ff05c3cc8092eeef7a
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Wed Jan 9 16:21:26 2013 -0600
+
+    Since SteveSpear merged my pull req we can track UB again :D
+    
+    nuff said
+
+commit 05bc0f1eb911663f97fc24b673179956c39da867
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Tue Jan 8 10:44:55 2013 -0600
+
+    Track our own fw_rs
+    
+    has more iso11 fixes...that should be good for now ;)
+
+commit 3003de57f711d910cfaa2598a4a08d5f98579046
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Tue Jan 8 10:42:59 2013 -0600
+
+    Track our own system/core from CM with ISO11 fixes
+    
+    From now on i will maintain this repo (merging pull reqs from CM on a bi weekly basis)
+
+commit c31f2c3188765f15fc95ae8113fd4d9ad06f0b9e
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Sat Jan 5 19:52:13 2013 -0600
+
+    Fix herp derp
+
+commit b268d36c5cf13ddc13e24d2c27320c4920780dab
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Sat Jan 5 19:48:11 2013 -0600
+
+    Track our own DonwloadProvider for more nerd
+    
+    integration ^_^ ...
+
+commit a756984e274785bfdd69506aee37a79158e9705f
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Sat Jan 5 17:26:02 2013 -0500
+
+    Track External Compiler RT From AOSP
+
+commit d932f8d3ed8cae03ff25934a87855abf88cdd412
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Fri Jan 4 14:22:51 2013 -0600
+
+    Switching to more traditional naming for easier pull reqs
+    
+    from gh.com
+
+commit c69b346ad9e32c9199cf027cc11ee2745304668a
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Thu Jan 3 13:59:22 2013 -0600
+
+    Track our own /hardware/display/qcom
+    
+    so we can avoid compiler errors when building with linaro (credit winner00)
+
+commit 9ff35c259cc015f7c7a634f83e7e49dca6d52a92
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Wed Jan 2 12:28:14 2013 -0600
+
+    Update to moar butter repoz
+
+commit 12afef01f6260787ccf9345785cffc152f8a8d96
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Wed Jan 2 12:14:32 2013 -0600
+
+    Most people are using quad core...
+    
+    this is a medium liquid and i can agree on (i still vote -j1) hopefully this reduces the error code 80s
+
+commit 407dae7f837ef49dbe903e7a009872294bd7f08e
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Tue Jan 1 23:32:27 2013 -0500
+
+    Track Butta Repos Upstream (Credit SteveSpear426)
+
+commit a1ee9b72488c6df2930fe9d61ae0e4ae18b492ea
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Tue Jan 1 22:55:55 2013 -0500
+
+    Kang Moar Liquid Butta Mmmmz
+
+commit aeac1cd6010edbdb9121f79879909e1154e0bd59
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Mon Dec 31 22:33:49 2012 -0500
+
+    Track Our D2 Common Repos
+
+commit 8cf60f7db8ed50d4329b51e0c90b32c6841a7620
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Mon Dec 31 19:57:10 2012 -0500
+
+    Track Our Device Tree Repos JB2
+
+commit 7a92a1494a14d22a0f10ce2b095ff946f3fca88e
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Mon Dec 31 14:32:14 2012 -0500
+
+    Track Bootable Recovery Upstream AOSP
+
+commit dd8458fdf7fc5b31a84f748af9be716f455edec9
+Author: winner00 <TOverturf@gmail.com>
+Date:   Mon Dec 31 11:57:42 2012 -0700
+
+    Track Lock Clock.
+
+commit fd62f86e9c546f97c4fcfbf4131e9c0d59a1d861
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Thu Dec 27 13:18:29 2012 -0500
+
+    Track More Externals/Repos Upstream AOSP
+
+commit d564e55ebcbbf56750f35465464598d867703fef
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Thu Dec 27 12:32:38 2012 -0500
+
+    Add Qcom Caf Audio/Missing Devtools
+
+commit cfcab614b2bbebbaae3dc870514db859e75cf410
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Mon Dec 24 16:43:08 2012 -0500
+
+    Fix Frameworks Base Branch Name
+
+commit 16eade0c63e13a26de6ee910b21ce0506326a843
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Mon Dec 24 13:18:20 2012 -0500
+
+    Fixup Manifest/Remove Unwanted Repos
+
+commit fb8890ab717da42c2991a87a2cb83f49e05a5d5f
+Author: liquid0624 <rjbirnesser@gmail.com>
+Date:   Sat Dec 22 15:45:45 2012 -0500
+
+    Massive Manifest Overhaul (Track More Upstream)
+
+commit bebf56c49a67af5e4c32f66d9575d2d19a0500a0
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Thu Dec 13 10:11:48 2012 -0600
+
+    Generic common goes bye bye
+
+commit 1c421cd2bdd78b5503f4da61615ad6345d399d87
+Author: Hiemanshu Sharma <hiemanshu@gmail.com>
+Date:   Thu Dec 13 21:15:22 2012 +0530
+
+    Not all repos are cm-10.1 yet (2)
+
+commit 96a2d0fbb4672ccc59a8c2e63d0c5623785ce582
+Author: Hiemanshu Sharma <hiemanshu@gmail.com>
+Date:   Thu Dec 13 12:40:36 2012 +0530
+
+    Not all repos are cm-10.1 yet
+
+commit 7ca6be75fe378b71c3508f07dc6eb35dd3195e50
+Merge: 5dbd00a 3c18efa
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Wed Dec 12 16:58:38 2012 -0800
+
+    Merge pull request #3 from andros11/jb2
+    
+    Fix derp
+
+commit 3c18efa27b950a4fe54fc0b79610b96f888f6aa3
+Author: Andros Rosa <andros2011@gmail.com>
+Date:   Wed Dec 12 20:52:11 2012 -0400
+
+    Fix derp
+
+commit 5dbd00acf100500ef62f42618863e1d3d5c40694
+Author: Tylar Overturf <TOverturf@gmail.com>
+Date:   Wed Dec 12 17:16:59 2012 -0700
+
+    Update CM repos.
+
+commit 7534d662f50e3c1f9b1fc7e6746cc97de85221d5
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Wed Dec 12 13:23:32 2012 -0600
+
+    Lower the # of threads sync uses
+    
+    7 is pretty high 4 should do the ticket, probably why were getting all of the fetch errors...may even need lowered 
+
+commit 4b385c7bf6f71209e9714f70307f0f4655bb305f
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Wed Dec 12 13:22:24 2012 -0600
+
+    Added more 4.2 bluetooth requirements
+    
+    Doing this repo by repo but we are missing a few that we need so im merging em in...
+
+commit 2b95d11f13ff7fa8c0112dd42040c20dcbef3134
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Wed Dec 12 13:18:38 2012 -0600
+
+    Added device/generic/common
+    
+    To help fix bluetooth.
+
+commit 40282ec3c38914aba0fab1515803030deeca8cfc
+Author: Hiemanshu Sharma <hiemanshu@gmail.com>
+Date:   Tue Dec 11 10:25:15 2012 +0530
+
+    Update grouper repo to jb2
+
+commit 3263cbba994c556918c8506ed863929bf953c771
+Author: Hiemanshu Sharma <hiemanshu@gmail.com>
+Date:   Mon Dec 10 11:50:07 2012 +0530
+
+    Update and fix derp
+
+commit 28a6b750c8a0840f90b03f60bd849c77b93a12a8
+Author: Hiemanshu Sharma <hiemanshu@gmail.com>
+Date:   Mon Dec 10 10:29:47 2012 +0530
+
+    Track tuna from CM and update some more repos branches.
+
+commit 24f33747e0803d6be59ac95949fab80b4aa2ecf4
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Sat Dec 8 15:47:34 2012 -0600
+
+    Track our own frameworks/opt/telephony :D
+    
+    ^_^
+
+commit 90b41206e581c3e0b3cf8309ba433aa3e2338362
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Sat Dec 8 13:18:34 2012 -0600
+
+    LatinIME no longer needed...
+
+commit 87e789db68384ea72be4926af0d3115cb930bf61
+Merge: 35b1a98 5d56ac0
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Sat Dec 8 10:07:12 2012 -0800
+
+    Merge pull request #2 from hiemanshu/jb2
+    
+    move GN stuff to jb2 repo
+
+commit 5d56ac045f4d798d03999ccef1bb22ea16b7ea7f
+Author: Hiemanshu Sharma <hiemanshu@gmail.com>
+Date:   Sat Dec 8 12:05:27 2012 -0600
+
+    move GN stuff to jb2 repo
+
+commit 35b1a98e422fba567ef67453dabc30d2944de3a4
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Sat Dec 8 11:43:03 2012 -0600
+
+    Sry guise but no more aosp calendar...
+    
+    Its time we grow up and realize that googlemarket is the titties. Also that testlacoii launcher is bossauce. :D
+
+commit 6caa97e87b10cc8fa9ca44365b94134a9ca2c096
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Fri Dec 7 09:59:48 2012 -0600
+
+    Switched to new samsung jb2 blobs for d2vzw (and manta soon)
+
+commit d9297a9ea6e9b2edc3701729e13a3a8df7685cea
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Fri Dec 7 09:41:19 2012 -0600
+
+    Switched to the muppets vendor..
+    
+    Because its better ;x
+
+commit 33b312c9835b1fc960c8d63b9aa8d958022c06f5
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Tue Dec 4 11:23:40 2012 -0600
+
+    Switched Gallery2 to stock 4.2.1 AOSP
+    
+    To accompany the camera...no need to track CM's camera/gallery upstream at this particular point in time, we can just take the good features right now the way they leave stuff staged it makes for painful compiling on our end. This should be more reliable..ill add collaborators for G2 aswell 
+
+commit 687d037e57fc508b1b14e7c49de34fc380c3c85a
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Tue Dec 4 10:59:07 2012 -0600
+
+    Track the stock AOSP 4.2.1 camera upstream for now
+    
+    Giving everyone on the team ownership over the repo if they wish to modify it, can also be forked later...jus dont have forkage rights and admin is mia ;x
+
+commit 3ac68f05a2a661c0f7fabae976ae1b64c28d38c6
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Tue Dec 4 10:46:06 2012 -0600
+
+    Upstream CM Cam causing build issues.
+    
+    Lets mod camera ourselves because i have a feeling we will be sucking up compiler errors left and right (as seen with gallery2 atm) by following their package upstream...for now lets leave camera be. If this fixes gallery2 compile error then i will have some great goodies to push :D
+
+commit bf94861a97bd8aa532e4344fa7db25c3c2ab47e0
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Tue Dec 4 08:55:32 2012 -0600
+
+    Too early to jus switch to old Launcher2...
+    
+    Base isnt ready to use the old launcher package...
+
+commit 65f47bfbd14081fd84f4d10ec1d2ea92e45f644b
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Tue Dec 4 06:35:52 2012 -0600
+
+    Fixed frameworks base to pure 4.2.1 jb-release
+    
+    Hard reset is a command that is gay evidently as it leaves loads of doo doo where there once was gold. now onto better things.
+
+commit 235cb298c25b201fd5b6264bf73db29cfc800ec9
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Mon Dec 3 22:12:49 2012 -0500
+
+    Oops Forgot To Remove This
+
+commit 2e092f4d8f5fce430b6eecce730d6adb628957fa
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Mon Dec 3 21:49:36 2012 -0500
+
+    Remove Unwanted Devices/Track More Upstream
+
+commit 71b3dbcd4eebeb90b6c85118a0f5057258afb12f
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Wed Nov 28 20:25:14 2012 -0600
+
+    Revert "Update manifest SPECIFICALLY for d2vzw boot"
+    
+    This reverts commit c5f4d46282bd78b82a422083791f2874ebc82ed3.
+
+commit c5f4d46282bd78b82a422083791f2874ebc82ed3
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Wed Nov 28 20:17:37 2012 -0600
+
+    Update manifest SPECIFICALLY for d2vzw boot
+    
+    revert this if your not building for d2...
+
+commit 1ae49ee3067e8fcad944e07c9369a9a0b80ce762
+Author: winner00 <TOverturf@gmail.com>
+Date:   Wed Nov 28 15:42:17 2012 -0700
+
+    Use our Contacts.
+
+commit 94e6d563f296d3b71df2e96a25a19240dbc34a07
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Wed Nov 28 09:45:08 2012 -0600
+
+    Back to 'our' bionic
+    
+    otapackage didnt boot probably because of the bionic patches...
+
+commit f3fe0379a68753668036431828dfce427a2eedf9
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Wed Nov 28 03:30:02 2012 -0600
+
+    rearranging...
+
+commit 73064dd66367ec9ee40ea3ab23dcd091fabaee48
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Wed Nov 28 03:27:07 2012 -0600
+
+    Add prebuilt to manifest
+
+commit 218a1a780ad948c540e94b1815f649aa3b3e4b9e
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Wed Nov 28 03:02:47 2012 -0600
+
+    Trying out my 14 commit mega kang :D
+
+commit 7d4e4bfda5f3de7878916ee3cdede229ee77d00f
+Author: Christopher Noel Hesse <raymanfx@gmail.com>
+Date:   Tue Nov 27 20:28:27 2012 +0100
+
+    TF101 ready to jump.
+    
+    Use the 4.2 device tree from now on, I am fixing things up atm. Boots atleast.
+
+commit 3d14c0fccd821097b68342ecd2f9b8a55319c443
+Author: winner00 <TOverturf@gmail.com>
+Date:   Tue Nov 27 01:25:28 2012 -0700
+
+    Switch back to ours.
+
+commit 4b2a5ff4be8da40be6687ca1618f502e63a369df
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Mon Nov 26 20:43:22 2012 -0600
+
+    added mako vendor
+
+commit 5c0851f6158d8d541f0a76ecbb3743c08bf26ac8
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Mon Nov 26 20:30:13 2012 -0600
+
+    Switched bionic to pure aosp
+
+commit 80839f2a6c00a6965294bb9c09e567ce127507cd
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Thu Nov 22 10:01:03 2012 -0600
+
+    Double derp ;x
+
+commit 769ba711975f8fdc8cf8ba3bc1715e9d815aaf89
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Thu Nov 22 09:59:31 2012 -0600
+
+    Fixed mani
+
+commit ce03a639628c38b6f67087af430b8e7b9e19d2f3
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Thu Nov 22 09:53:05 2012 -0600
+
+    Tracking fw_opt_telephony from CM so we can inherit their
+    
+    RIL fixes....mostly dhack stuff ;x
+
+commit 982b327297ac53c0d6a729641d55473f2560d62f
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Thu Nov 22 01:54:11 2012 -0600
+
+    Until someone has mods they want to make to system/core
+    
+    We are tracking CM upstream because it will provide us with less headache on our journey of making non nexus's support 4.2 :D
+
+commit 9a9aeff863a4d16f7907831be6325946a3d119cf
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Thu Nov 22 01:34:57 2012 -0600
+
+    Switched d2common to new jb2 repo for mr1 staging
+    
+    happy anniversary 
+
+commit 5c2aaf41a5883cdb0729756c5edc5dfd0087c229
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Tue Nov 20 14:02:12 2012 -0600
+
+    Switching bionic to new branch
+    
+    We are undergoing a new strategy, instead of starting with aosp base we are going to try and merge google over it OG style and then resolve the conflicts...bionic is repo #2 thats doing it. In case this is failed though, we have the jb2 branches to fall back on. When the merges are complete current jb2 branches will be deleted and replaced by mr1. ;)
+
+commit f5cb42035e3ee0e3153f4f5df4e583afd146316d
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Mon Nov 19 15:15:08 2012 -0500
+
+    Initial Android 4.2 Manifest & Readme
+
+commit 441159a21d95185ca950e0f8076a9c50d79e05f8
+Author: Tylar Overturf <TOverturf@gmail.com>
+Date:   Mon Nov 19 01:41:18 2012 -0700
+
+    Update CM repos to 4.2.
+
+commit 16554dd45aa33f6a97fa93b3a72ab5579734d065
+Author: Hiemanshu Sharma <hiemanshu@gmail.com>
+Date:   Sun Nov 18 15:44:07 2012 +0530
+
+    Part 1/2 update the manifest! \o/
+
+commit cdcf911b9334e225c947f239da8c1920cb1033ad
+Author: Hiemanshu Sharma <hiemanshu@gmail.com>
+Date:   Sun Nov 18 15:03:28 2012 +0530
+
+    Change jb to jb2, and change to 4.2_r1
+
+commit 1ed8dc927e36b5bc58f9452de5cc3a5620f02c5d
+Author: Christopher Noel Hesse <raymanfx@gmail.com>
+Date:   Fri Nov 16 19:13:42 2012 +0100
+
+    Fixup manifest
+    
+    Seems like aosp does not have all the right refs right now ..
+
+commit c5d45e7f57ea7e0a8de8b777579d5c98f5a305ce
+Author: Christopher Noel Hesse <raymanfx@gmail.com>
+Date:   Fri Nov 16 19:02:46 2012 +0100
+
+    Remove unecesseray lines
+    
+    aosp is our default upstream remote anyways.
+
+commit 18ddadccb8b4c8edb4923c54909c6ac9aae24b88
+Author: Hiemanshu Sharma <hiemanshu@gmail.com>
+Date:   Thu Nov 15 09:22:56 2012 +0530
+
+    Revert back to stock recovery for now
+
+commit 12b49c6666968c8cb7b1b61fbd67eef923f6f183
+Author: Hiemanshu Sharma <hiemanshu@gmail.com>
+Date:   Wed Nov 14 21:47:24 2012 -0600
+
+    Update to 4.2
+
+commit 6d66df8dd2eb2b2bbefa8defa14e9c5b2773e597
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Wed Nov 14 11:29:03 2012 -0600
+
+    Added d2mtr to complete the d2 family ;)
+
+commit 1f66ed8447541be8a256836d50dbf854c59768b7
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Wed Nov 14 10:42:10 2012 -0600
+
+    Added 4412 commons...
+    
+    spose this means we can support more than jus i9300 ;)
+
+commit 8d8790e61bab5ed39bd8c9e66ff16725c5a60dac
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Sat Nov 10 15:16:16 2012 -0600
+
+    forgot the d2 part lol
+
+commit d1e3a51728a13cf1e57b98518896218cbdfd83e8
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Sat Nov 10 15:15:46 2012 -0600
+
+    Added D2USC back
+    
+    ;x
+
+commit 8337a0a4d93a027c8774d434360b9459caf439e1
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Thu Nov 8 01:38:21 2012 -0600
+
+    Added FileManager to liquid manifest....
+    
+    Instead of tracking upstream lets see if we can have a little bit of fun and potentially mod this package later on ^_^
+
+commit 9ef9a4a938a041990e049e439a82b30b69154213
+Author: Patrick Campanale <patrickappcreator@gmail.com>
+Date:   Sun Nov 4 22:15:07 2012 -0600
+
+    Removed un-needed things
+
+commit 3c8b01aa72bc646aa6a9731d3f83df47614849a7
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Sun Nov 4 14:15:59 2012 -0500
+
+    Track Our Android Prebuilt Repo
+
+commit cac4b5a4303abebfda05fc744d12a8e72ef25f49
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Sat Nov 3 20:11:24 2012 -0400
+
+    Add Some Missing Repos/Remove Some Font Externals
+
+commit 783b01885ba0ca4322218441f03a746c77b21b77
+Author: Patrick Campanale <patrickappcreator@gmail.com>
+Date:   Sat Nov 3 14:45:31 2012 -0500
+
+    Added support for HP TouchPad (tenderloin)
+
+commit bec29805c1e8331e7617f746f3727b427a369387
+Author: Patrick Campanale <patrickappcreator@gmail.com>
+Date:   Sat Nov 3 13:45:56 2012 -0500
+
+    Added android_hardware_atheros_wlan
+    
+    as it is needed for the building of tenderloin. Now working on Tenderloin for JB
+
+commit a6cd3b973a1e63a36aaceaa587dde55c93ec8c3c
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Fri Nov 2 19:47:36 2012 -0400
+
+    Track Our Qcom Common Device Tree
+
+commit 0d15662df1c3b0e91448eff105003affbe89ffc5
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Fri Nov 2 14:02:51 2012 -0400
+
+    Only Fetch Changed Repos/Qcom Optimized V8 Headers
+
+commit a3008cac21379211fb8fcc73b1a61003fc317c23
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Fri Nov 2 13:46:09 2012 -0400
+
+    Add D2spr Repo In Lieu Of D2usc
+
+commit a21c1a5f7ff51ce0ec49c0f9d7ae4a3f0396cabd
+Author: Patrick Campanale <patrickappcreator@gmail.com>
+Date:   Wed Oct 31 14:34:24 2012 -0500
+
+    Fixed space at top of manifest file
+
+commit edbd6726bc6ba51575855cc39124e88e200e11b8
+Author: Patrick Campanale <patrickappcreator@gmail.com>
+Date:   Wed Oct 31 13:28:51 2012 -0500
+
+    Reverted back to the JB manifest
+    
+    Accidentally changed this manifest vs the ICS manifest. Fixing mistake :)
+
+commit 2831c71c38170fefe0262024873b85f1c8259123
+Author: Patrick Campanale <patrickappcreator@gmail.com>
+Date:   Wed Oct 31 13:22:42 2012 -0500
+
+    Added support for HP TouchPad (tenderloin)
+
+commit 0392d0eafdea5e7ba8fa3bf476e37b3c80eb2f23
+Author: Hiemanshu Sharma <hiemanshu@gmail.com>
+Date:   Tue Oct 30 22:35:54 2012 +0530
+
+    Revert Revert the reverting revert, too lazy to do it from command line :P
+
+commit d3583d4a369055761f846e46c70dbe0939e00ef6
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Sun Oct 28 16:01:59 2012 -0400
+
+    Revert "Pull in CWM recovery, required for some of the samsung builds"
+    
+    This reverts commit 090340e290dcad331c3840b39c3a17720655a237.
+
+commit 090340e290dcad331c3840b39c3a17720655a237
+Author: Hiemanshu Sharma <hiemanshu@gmail.com>
+Date:   Sun Oct 28 14:04:06 2012 +0530
+
+    Pull in CWM recovery, required for some of the samsung builds
+
+commit 284e26ed218b1951b5f6d8acd2be23fdb859f1ed
+Author: Christopher Noel Hesse <raymanfx@gmail.com>
+Date:   Tue Oct 23 23:51:18 2012 +0300
+
+    Remove TF101(G)
+    
+    I will fix this device on my own github account and maybe fork again when it's stable enough
+
+commit 705619768b71922c6ca56d3741538701b32f8c78
+Author: Christopher Noel Hesse <raymanfx@gmail.com>
+Date:   Tue Oct 23 16:08:37 2012 +0300
+
+    TF101G: Update
+
+commit b91946be5da360e4fc725bdb43b643729f9c186b
+Author: Christopher Noel Hesse <raymanfx@gmail.com>
+Date:   Tue Oct 23 15:41:41 2012 +0300
+
+    Add TF101G device
+    
+    The device tree for the Asus Transformer TF101 with inbuilt 3G module.
+    This device tree will be very small because it will be using most of it's
+    parts from the original TF101 device tree.
+
+commit e518a1f43e6420a4e8482f1756040083e3d32e43
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Mon Oct 22 19:25:31 2012 -0400
+
+    Readd Calendar Repo/Remove HtmlViewer Repo
+
+commit 0c862965bf60566c72a0ec820e7326a058f700eb
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Mon Oct 22 16:00:48 2012 -0400
+
+    Track Wanted Repos Only From CM
+
+commit 6bfcbee758f9ecf83a85d330f2117d145d37c251
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Sun Oct 21 13:37:28 2012 -0400
+
+    Fix Chromium Repo Name/Remove Grouper Kernel
+
+commit c665abd8e5bea371b857087dbf28e31de79fdb19
+Author: Christopher Noel Hesse <raymanfx@gmail.com>
+Date:   Sun Oct 21 20:33:17 2012 +0300
+
+    Track external/chromium upstream from cm
+    
+    Seems like the chromium repository from android.googlesource causes problems, so we just switch back to tracking the cm repo.
+
+commit 2eb9962f1ec6b5b9e03b0c028291d906ad2187d6
+Author: Christopher Noel Hesse <raymanfx@gmail.com>
+Date:   Sun Oct 21 18:23:22 2012 +0300
+
+    Remove Kernels and the Calendar Package
+    
+    Kernel sources are huge, we want to keep our source code small and clean.
+    Whoever wants to use inline building for the device he/she is developing for, has to clone the kernel repository manually.
+    The kernel sources developed by TeamLiquid (E.g. my Asus Transformer TF101) will be kept in our TeamLiquid organization for access. The others can be forked from cm or other places if necessary.
+
+commit 7c0fcd817121e6dfec764a406b28543986adf550
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Sat Oct 20 23:38:21 2012 -0400
+
+    Remove Unwanted Samsung Repo
+
+commit 2976572ef40afb4d58d4cbac5ab454d8547cadbe
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Sat Oct 20 23:32:58 2012 -0400
+
+    Fix Bionic Tracking Remote Derp
+
+commit 517c1f2994a4c9f51ca5a43ce6221484ea043506
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Sat Oct 20 23:28:45 2012 -0400
+
+    Organize Device Repos/Track More Repos Upstream
+
+commit 989da75a2039a9bb29d536a7f3ae43574ca9a748
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Sat Oct 20 20:05:49 2012 -0400
+
+    Track Our Telephony Provider
+
+commit 330e0f65344bbbf6009f0d3234500f5afc13dd2b
+Author: Christopher Noel Hesse <raymanfx@gmail.com>
+Date:   Fri Oct 19 18:55:00 2012 +0300
+
+    DOCUMENTS: external/doclava from cm
+
+commit 051da69ed8fa3a24b280bee8de720430057f086e
+Author: Christopher Noel Hesse <raymanfx@gmail.com>
+Date:   Fri Oct 19 18:14:26 2012 +0300
+
+    Remove the last remaining bit of paranoid android.
+    
+    Since we don't want paranoid features in LiquidSmooth anymore (talked to Ryan), we don't need this anymore.
+
+commit ecde0f19cac2b52b91b68d2dbd02bec22d53f54a
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Mon Oct 15 23:34:51 2012 -0400
+
+        Bringing Paranoid Android Features to LiquidSmooth (5/5)
+    
+        All Credits to molesarecoming and the whole PARANOID ANDROID team
+        Please understand it is a very dirty hack and pushing every PA commit
+        one by one to preserve original credit was impossible but this deserve all
+        of Paranoid android team's credit for their source. I am just sharing it .
+
+commit bff8f389bbe8756ae06554c937aea2f50c14522b
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Mon Oct 15 20:07:59 2012 -0400
+
+    Track Our Mms Package Repo
+
+commit db41b84fda3ba5f5cbff8b737e48e81379369dc3
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Thu Oct 11 20:47:13 2012 -0400
+
+    Missing Elan Vendor For Grouper (Thanks Winner00)
+
+commit 116e5bb7e57d6fcfdb89494a9a878b18ca9ff2e4
+Author: Hiemanshu Sharma <hiemanshu@gmail.com>
+Date:   Thu Oct 11 22:36:11 2012 +0530
+
+    readd HTMLViewer, #blameRyan
+
+commit 23d98c10fff612e6ba8bb6683f6a85b9cd517b44
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Wed Oct 10 02:03:37 2012 -0400
+
+    Switch AOSP Upstream To 'jb-mr0-release'
+
+commit 427c9dec15dc2048e75a4c39e3005ba09f6c4e26
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Tue Oct 9 15:27:21 2012 -0400
+
+    More Unwanted Repos Removed
+
+commit f2272a9b51e3fea3de0628fb4daa4b72ac1abe0c
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Tue Oct 9 15:24:23 2012 -0400
+
+    Remove Unwanted Repos/Add SamsungServiceMode Repo
+
+commit 1a809bfddcbbc6b26bf43a86274a5277cfaf3c61
+Author: Christopher Noel Hesse <raymanfx@gmail.com>
+Date:   Sun Oct 7 22:25:36 2012 +0300
+
+    Add my own tf101 kernel
+    
+    This adds my Harmony kernel for the Asus Transformer TF101/S/G models.
+
+commit 1f5e539898b514b0889bb3bc4cd42c9cac6b8207
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Sun Oct 7 13:49:18 2012 -0400
+
+    Revert "Remove Music Package From Manifest"
+    
+    This reverts commit 4b1227d0afd4bd516a1e71b12a1e66357ee95243.
+
+commit 4b1227d0afd4bd516a1e71b12a1e66357ee95243
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Sat Oct 6 23:48:01 2012 -0400
+
+    Remove Music Package From Manifest
+
+commit 02ba3d0a73cc1f249841fdabbd580faca2d71ba9
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Sat Oct 6 23:47:30 2012 -0400
+
+    Revert "Remove Unwanted Libncurses External"
+    
+    This reverts commit 4b915927206110acf29da0f314613b97e8d4d8cb.
+
+commit 4b915927206110acf29da0f314613b97e8d4d8cb
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Sat Oct 6 23:30:38 2012 -0400
+
+    Remove Unwanted Libncurses External
+
+commit e8109031200c670197fa62939ddc5050e917f0e0
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Sat Oct 6 09:56:40 2012 -0500
+
+    Bring things back to stable w/ Music package.
+    
+    We include this music package which is less buggy than appolo and has an equal amount of features and will work in any country (fulfilling the same needs as apollo) And MusicFX is now paired back with Gmusic. We've come too far to turn back now...
+
+commit ad5965e346cea78ed60fe98c822ad704d0e7c8ed
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Sat Oct 6 09:53:00 2012 -0500
+
+    We are famous for the quality of our audio.
+    
+    I majored in audio prior to doing this android thing and DSPmanager is a rogue application for more reasons than I'd like to name. Leave that to flashables. Lets try and optimize the system core and make it run faster and more stable and avoid dumb mods like dspmanager especially when it replaces a MUCH BETTER eq...musicfx. No bloat and nothing that compromises system stability. No offense to CM. Additionally this causes a conflict between musicFX (still on manifest) and DSPmanager. Lets leave the DSP mods to the pros (google) and if people want to use CM's DSPman then they can always flash extras. I almost barfed when i flashed the most recent release. Thought i had accidently flashed CM inspite of the file name...cleaning up now.
+
+commit c8d30d0dc25e3d1db52ee50ffd73176b5af7ec28
+Author: Christopher Noel Hesse <raymanfx@gmail.com>
+Date:   Fri Oct 5 19:04:21 2012 +0300
+
+    Add the DSP Manager package
+    
+    Some nice equalizer for our rom.
+    
+    Credit CM
+
+commit 5fd548de44634d606dcdd844573aa7485278ee45
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Thu Oct 4 22:37:23 2012 -0400
+
+    Track Apollo Upstream From CM
+
+commit fd3bbee01353fbfb467d1d53f90f5514f1280694
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Thu Oct 4 00:04:47 2012 -0400
+
+    Track Our Contacts Provider
+
+commit 2f8d817282d72433848fffcd0160e009d3be79ce
+Author: Christopher Noel Hesse <raymanfx@gmail.com>
+Date:   Wed Oct 3 16:42:07 2012 +0300
+
+    Add Provision package
+    
+    This resolves another load of strange issues on some builds, the TF101 for example. We just keep it upstream from cm.
+
+commit 365d6a03329ed8413e82fe24eccce37705cc6275
+Author: Christopher Noel Hesse <raymanfx@gmail.com>
+Date:   Wed Oct 3 16:09:40 2012 +0300
+
+    Add HTMLViewer package. Fix strange things (tf101)
+    
+    This should not break anything; it just adds the HTMLViewer packages, which causes a lot of strange things if it's not there, like broken navbars and missing lockscreens, or browser fc's.
+
+commit 2a5a5e2df4a71a0573910bc9488af659ff26518c
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Tue Oct 2 14:48:20 2012 -0500
+
+    Really fix tf101
+    
+    ;x RayMan this is a bit more customary. Those extra makefiles we can probably rid ourselves (besides liqiud.mk and the other essentials ofc)
+
+commit f3a267a68632e151dc8e033aa8b0180b6779cd9d
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Tue Oct 2 12:05:48 2012 -0500
+
+    Removed devil repos ;x
+    
+    Sprint, you may have an unlimited network, but you are an unlimited headache.
+
+commit 4666695542a05d9619ebeae59929b161f217c4f5
+Author: Christopher Noel Hesse <raymanfx@gmail.com>
+Date:   Mon Oct 1 00:54:47 2012 +0300
+
+    Fix TF101
+
+commit 30b2c1dc648d1389819d161e74d5c49904e7e08e
+Author: Christopher Noel Hesse <raymanfx@gmail.com>
+Date:   Mon Oct 1 00:50:56 2012 +0300
+
+    Update default.xml
+    
+    Add ASUS TF101 device
+
+commit 03bea3c9a7ae7c99ee8f928d30a10fcd7ed83d94
+Author: Hiemanshu Sharma <hiemanshu@gmail.com>
+Date:   Sat Sep 29 16:21:07 2012 +0530
+
+    Add i9100
+
+commit c739cb0dd617deb2ffd70658d85cb7d86e47a649
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Tue Sep 25 17:55:21 2012 -0500
+
+    Added toroplus repo to manifest...
+
+commit 9c9827cff59152b508edcd3df56d85e633033f07
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Tue Sep 25 12:46:41 2012 -0500
+
+    added missing = sign to revision
+
+commit f76831fa7a292db97fbad3363390ff348c102192
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Tue Sep 25 12:31:43 2012 -0500
+
+    Added qcom common upstream
+
+commit f99e3bb85d376c06a5f4215f3d87eedeeefbaa78
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Tue Sep 25 12:14:11 2012 -0500
+
+    Added d2usc to manifest
+    
+    enjoi!
+
+commit 4ceb730b2ede98f76692f193a43a84bd934c34b4
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Tue Sep 25 11:32:13 2012 -0500
+
+    Added d2spr to manifest
+
+commit 7e2cfdeba9d26c98a8033a801bd88dea4b7b672c
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Sat Sep 22 13:59:07 2012 -0500
+
+    Added d2tmo device repo...
+
+commit 13f8dbf584cbbda59afa493f1d57fc3721e628fc
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Sat Sep 22 11:07:37 2012 -0500
+
+    Fixing up manifest for d2att
+
+commit b843da4e71016be4846fd4ce72fc8e22221b0e6b
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Sat Sep 22 10:19:56 2012 -0500
+
+    Temporary
+
+commit 0b5be3223786baaecc74c062d97db5be638728ea
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Sat Sep 22 10:03:30 2012 -0500
+
+    Added d2att repo to manifest
+
+commit 4ea88a7f119ebc5839291f07e282ec0e29ed11f1
+Author: Hiemanshu Sharma <hiemanshu@gmail.com>
+Date:   Tue Sep 18 13:10:05 2012 +0530
+
+    Change kernel revision for TF700T to jellybean
+
+commit eb2b42d13b73460683f90f4d23a76cc3b0ee5b67
+Author: Hiemanshu Sharma <hiemanshu@gmail.com>
+Date:   Tue Sep 18 13:06:25 2012 +0530
+
+    Add TF700T Kernel and Device Tree
+
+commit da724cb2dd9026cc89f4f73f05353ed0da7f599f
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Sun Sep 16 15:11:27 2012 -0400
+
+    Track Prebuilt/Prebuilts Repos Upstream
+
+commit cde77b92f50f72fd9ded77a107921519293a51a4
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Thu Sep 13 22:10:36 2012 -0400
+
+    Undo Qcom Vendor Folder Relocation
+
+commit 7948ca7c750ad5e3325d95b46d33751ff3c1e901
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Thu Sep 13 12:55:33 2012 -0400
+
+    Track Our Camera & Legacy Hardware
+
+commit 288f81472ba623ba91e687f405be37480c24adf0
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Thu Sep 13 00:31:27 2012 -0400
+
+    Add Htc Mecha Device/Kernel Repos
+
+commit 6287a76ad27f3d5de9423c2fb162765dbf1bc18d
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Wed Sep 12 18:08:29 2012 -0400
+
+    Lets Track Our E2FSprogs Library
+
+commit 6be2e2cb3123d13f24e0a86ce2a714fd35d52886
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Wed Sep 12 17:12:22 2012 -0400
+
+    Lets Track Our Bionic Library
+
+commit 29a53ba96e7654fbc3423872000ccd81a62264ab
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Tue Sep 4 12:56:49 2012 -0400
+
+    Track Grouper/Tuna Kernels Upstream
+
+commit fedef820a7d7d35a561de9c265722ce5c44d8762
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Mon Sep 3 02:38:34 2012 -0400
+
+    Track More Repos Upstream
+
+commit 84273a904929b61822dd8ceb34af46674a3950a1
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Tue Aug 28 01:17:46 2012 -0400
+
+    Add External Qrngd For Qcom Hardware
+
+commit 9854a88336263447fd2e2013ca4ab2f29d7a0b86
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Sat Aug 25 19:30:43 2012 -0400
+
+    Track Samsung Kernels From CM
+
+commit 894b2c347f9ae78520bf6f61ba7b4ab060fbbf66
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Thu Aug 16 21:24:26 2012 -0400
+
+    Remove Kexec Tools From Manifest
+
+commit ba5747d45b2b8c9ddf9e2c955e53f6836f57033d
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Sat Aug 11 06:14:50 2012 -0400
+
+    Aosp/CyanogenMod/TheMuppets From Upstream
+
+commit 9dec63d9ca671257b636e5c7af8525ecdbe17965
+Author: jdkoreclipse <jdkoreclipse@gmail.com >
+Date:   Sat Aug 11 01:46:40 2012 -0300
+
+    fix syncing
+
+commit 218ded3bab289aa8375cce345c58685780cf8b87
+Author: winner00 <TOverturf@gmail.com>
+Date:   Fri Aug 10 21:23:34 2012 -0600
+
+    Fix for github name.
+
+commit 3f6559646098c12bd8cc60221c1860485630ca71
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Fri Aug 10 21:11:41 2012 -0400
+
+    Lets Use Jb Release Braches
+
+commit b5776f7b9852ca0103692c7d279984bf1553add0
+Author: jdkoreclipse <jdkoreclipse@gmail.com >
+Date:   Fri Aug 10 13:40:37 2012 -0300
+
+    Fix up manifest
+
+commit 461f0fb0f9364c76f84166f6de39b8574909ddee
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Thu Aug 9 23:36:33 2012 -0400
+
+    Track Out Netlink Headers Repo
+
+commit 43a61b8d998a84b7641346d7e32772fe821ece51
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Thu Aug 9 23:09:06 2012 -0400
+
+    JRO03L/Update Devices & Vendors/Reconstruct Manifest
+
+commit 5b874ae071a5f46e85281b7b923cc381ba850123
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Thu Aug 9 11:50:33 2012 -0500
+
+    Added smk4412 repo to build i9300 kernel inline
+
+commit 7677fb77ffc08f0260754468792a1f4901f44f90
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Sat Aug 4 16:35:03 2012 -0500
+
+    Adding kexec tools to fix build
+    
+    compiler is bitching about kexec tools being missing so this should shut it up :D
+
+commit d2f8d9fe18238f515ca69d0f7a5a1f7ddde50d5e
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Sat Aug 4 14:50:20 2012 -0500
+
+    Removed Kexec Tools from manifest
+    
+    To fix potential breakage
+
+commit 8af56f5b085b7833bb5b3afa334d641f6df7746e
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Fri Aug 3 12:22:49 2012 -0500
+
+    Readding hardware qcom audio to manifest
+    
+    It targets msm8960, doubt this will fix RIL but its worth a test...
+
+commit 1094e48d0ae80d19d1508662f8696ec9eabfde2a
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Tue Jul 31 23:41:36 2012 -0400
+
+    Remove AppWidgetPicker Repo/Track New Torch Repo
+
+commit 53e31b0a51fc49c82040d06793148a97eafc4275
+Author: jdkoreclipse <jdkoreclipse@gmail.com >
+Date:   Mon Jul 30 00:37:44 2012 -0300
+
+    Update build instructions to tell to build with squisher
+
+commit c6ad9735fd27f2d744ae92ab142695428fa844f4
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Sun Jul 29 17:14:05 2012 -0400
+
+    Track Our Gallery2 Repo
+
+commit 01b7d8cb720484841497b4e642912e527200a893
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Fri Jul 27 19:21:56 2012 -0400
+
+    Remove Mecha & Qcom Audio/Readd Gallery2 From Upstream
+
+commit c55de8dacd4f9b99bd0f5cee17721efb28198017
+Author: jdkoreclipse <jdkoreclipse@gmail.com >
+Date:   Fri Jul 27 14:38:23 2012 -0300
+
+    fix syntax
+
+commit da241554d454e3627b224a75995e9ca86460c110
+Author: jdkoreclipse <jdkoreclipse@gmail.com >
+Date:   Fri Jul 27 14:37:37 2012 -0300
+
+    re-add theme chooser
+
+commit 3a8c458f967853cf468f00e68c72608c7a31a37d
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Fri Jul 27 09:52:13 2012 -0500
+
+    Reverted qcom_audio lib as it is not needed..
+    
+    eventually shareef will get libaudioalsa and open souce audio working for this phone...we will forget about this...
+
+commit 0643ff0288e8d6028a0c9f094a16be9d7b96e899
+Author: nocoast <voteforpedro8@gmail.com>
+Date:   Thu Jul 26 23:45:45 2012 -0500
+
+    Added missing qcom_audio repo from manifest...
+    
+    Repo was already forked, was not in the manifest...Hopefully this will help us compile the sgs3
+
+commit a88ed31943e34d32365e7634be1ea311795f508f
+Author: Hiemanshu Sharma <hiemanshu@gmail.com>
+Date:   Thu Jul 26 15:45:25 2012 +0530
+
+    Dont build system/su
+
+commit b6c7fb007931bc9278144dc9bb91ebcfc771d410
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Tue Jul 24 16:56:51 2012 -0400
+
+    Track Our External Guava Repo
+
+commit 658a8f646dd6819eaf0b1c4cd8ba7de02fede74b
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Tue Jul 24 14:38:40 2012 -0400
+
+    Readd Samsung 8960 Common Repo (Thanks Heim)
+
+commit 6b84fddc8289b8ef9aabe6aca589a92f118fe210
+Author: Hiemanshu Sharma <hiemanshu@gmail.com>
+Date:   Tue Jul 24 22:54:24 2012 +0530
+
+    Fix issues for real this time!
+
+commit cfbdb54b30f879ef686173d60fab01afc405e1b9
+Author: Hiemanshu Sharma <hiemanshu@gmail.com>
+Date:   Tue Jul 24 22:42:14 2012 +0530
+
+    Fix build issues! SDK in the wrong path!
+
+commit 7b428c5159ea3cb6eb5dbcfa3deb4c3b1c1422e2
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Tue Jul 24 02:46:57 2012 -0400
+
+    Massive Jb Manifest Update
+
+commit b928a5b74d612986c2ec9cbdf3790d0e9654c156
+Author: dhacker29 <davidhackerdvm@gmail.com>
+Date:   Mon Jul 23 19:02:30 2012 -0500
+
+    Track our own branch of frameworks/native
+
+commit d80d86f3bdb02e478b7c1b33ccb7171cb3e2932e
+Author: dhacker29 <davidhackerdvm@gmail.com>
+Date:   Mon Jul 23 15:37:17 2012 -0500
+
+    Add hardware/qcom display, media and gps
+    
+    Signed-off-by: dhacker29 <davidhackerdvm@gmail.com>
+
+commit 3e686520fe56710820122483d7e791b9f57b5320
+Author: Hiemanshu Sharma <hiemanshu@gmail.com>
+Date:   Sun Jul 22 19:02:07 2012 +0530
+
+    Sample is required for toro to build
+
+commit 2fc79d09388029774cd8f3f880ed2b06ffe31061
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Fri Jul 20 13:01:27 2012 -0400
+
+    Lower Reposync Thread Count
+
+commit 8c720e09779b560fba9cc833310be33556a57c95
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Fri Jul 20 12:53:11 2012 -0400
+
+    d2 Kernel & Kexec Tools/Remove Unwanted Repos
+
+commit 33d4651525883d5cca37f6c8b33fc809178422cc
+Author: LiquidSmooth <liquid0624@gmail.com>
+Date:   Fri Jul 20 12:29:12 2012 -0400
+
+    Increase Reposync Speed/Remove Unwanted Default Repos
+
+commit 005bdbfb2d5843a2a926185c2d83d051c6252e1c
+Author: Blueharford <jsseidel1@gmail.com>
+Date:   Wed Jul 18 09:51:06 2012 -0700
+
+    use our own grouper repo
+
+commit 0b168ad0979349811c894f1161f00b0f12441a9e
+Author: Blueharford <jsseidel1@gmail.com>
+Date:   Mon Jul 16 12:03:11 2012 -0700
+
+    add su back
+
+commit 02253c4c7d2f027e9974eacbdef7552ad2f14052
+Author: Blueharford <jsseidel1@gmail.com>
+Date:   Mon Jul 16 11:04:05 2012 -0700
+
+    remove qcom from now
+
+commit 3aac294c93a9441726e38929dbc58f28998ea7fc
+Author: Blueharford <jsseidel1@gmail.com>
+Date:   Mon Jul 16 04:49:33 2012 -0700
+
+    add tf101
+
+commit 3a14415b549f83bcc40fb1e5804a28abf62c7c4a
+Author: Blueharford <jsseidel1@gmail.com>
+Date:   Sat Jul 14 12:31:12 2012 -0700
+
+    use our own av
+
+commit e5e1e344d651b49e1dc65b244d62b317bf65065b
+Author: Blueharford <jsseidel1@gmail.com>
+Date:   Sat Jul 14 10:13:10 2012 -0700
+
+    derp
+
+commit 1050ec105a858a8664821586bd7bc41072033873
+Author: Blueharford <jsseidel1@gmail.com>
+Date:   Sat Jul 14 10:09:44 2012 -0700
+
+    add new devices
+
+commit cfdeed62793f7a677fcac20ea06860af8813fa94
+Author: Blueharford <jsseidel1@gmail.com>
+Date:   Fri Jul 13 10:12:30 2012 -0700
+
+    remove su directory and gallery
+
+commit 160bc312bb8e5d8b719094a86cf84a8a42525e9a
+Author: Blueharford <jsseidel1@gmail.com>
+Date:   Fri Jul 13 07:53:31 2012 -0700
+
+    use prebuilt su
+
+commit 6b4f9820bce27826123f79041501e3c8b01ea87e
+Author: Blueharford <jsseidel1@gmail.com>
+Date:   Fri Jul 13 04:35:46 2012 -0700
+
+    Revert "remove sample"
+    
+    This reverts commit fc8f89cfaabee8b2f7a6da8c2193b88da47c49cc.
+
+commit fc8f89cfaabee8b2f7a6da8c2193b88da47c49cc
+Author: Blueharford <jsseidel1@gmail.com>
+Date:   Fri Jul 13 04:27:47 2012 -0700
+
+    remove sample
+
+commit 7a30625d1416e47aa75e7e2e3f656eb563256692
+Author: Blueharford <jsseidel1@gmail.com>
+Date:   Thu Jul 12 11:23:09 2012 -0700
+
+    use our sltport
+
+commit 0e83a921172f0b5fa5046d69caa53be9e76f8685
+Author: Blueharford <jsseidel1@gmail.com>
+Date:   Wed Jul 11 13:49:15 2012 -0700
+
+    use google gtest
+
+commit 426a773fdb277335b6ad27436154f7c7349751b4
+Author: Blueharford <jsseidel1@gmail.com>
+Date:   Wed Jul 11 13:46:46 2012 -0700
+
+    change to jb-dev
+
+commit c36f2609ac43ec8b83daf3b86de640fd15ea942c
+Author: Blueharford <jsseidel1@gmail.com>
+Date:   Wed Jul 11 12:43:16 2012 -0700
+
+    use android prebuild
+
+commit 48db7fa58e5675218418091f1bc1356f54369c53
+Author: Blueharford <jsseidel1@gmail.com>
+Date:   Wed Jul 11 04:19:37 2012 -0700
+
+    fix jb on themesmanager
+
+commit 843adb8a4bed9e99caaaf0b0059c0d80fb184465
+Author: Blueharford <jsseidel1@gmail.com>
+Date:   Tue Jul 10 16:11:12 2012 -0700
+
+    fix sdk
+
+commit 9adbf7a9c458e3f08ca7bf2b4d0f556ba417501c
+Author: Blueharford <jsseidel1@gmail.com>
+Date:   Tue Jul 10 13:15:10 2012 -0700
+
+    fix
+
+commit 08e989646ac57a03592c6a031fe46fad4ad5ab8d
+Author: Blueharford <jsseidel1@gmail.com>
+Date:   Tue Jul 10 07:17:22 2012 -0700
+
+    update to jb
+
+commit af7d5ecdc1977655cc0beef91a27f62a5ab58305
+Author: Blueharford <jsseidel1@gmail.com>
+Date:   Fri Jun 29 06:12:53 2012 -0700
+
+    jb
+
+commit 35aea213525242febd9d0af17e2ac8f79d2ed62a
+Author: Blueharford <jsseidel1@gmail.com>
+Date:   Wed Jun 27 05:37:27 2012 -0700
+
+    add stats package
+
+commit 24e91d7298191c7e1d124a7ca90c68d42f78ae00
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Thu Jun 21 12:35:21 2012 -0400
+
+    Wireless Tools Repos/Samsung i9300 Device Config
+
+commit 6d4eb22bea129f5daa8e6b9384a2a53cfc5677e2
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Thu Jun 21 12:10:43 2012 -0400
+
+    Use Our Wpa Supplicant Repos
+
+commit 66e7796f65df1e1dfc1075e9f8582ebc0c56a828
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Wed Jun 20 12:51:33 2012 -0400
+
+    Revert "Add Missing Linaro External Repos"
+    
+    This reverts commit f38f27d44a3337346b8a4c3a53d4e697ff59b30a.
+
+commit 6458f2840bbf77a807bc66a47fbd77b0af3cdb07
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Tue Jun 19 19:09:56 2012 -0400
+
+    Remove Unwanted Cts Repo/Use Our Bluetooth Package
+
+commit ba97d5728010d0ecde08b8dd237f221c564b3182
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Tue Jun 19 19:07:13 2012 -0400
+
+    Fix External Qemu Alphabetize Blue :)
+
+commit 90be3201880f805585ef5ad3497584ee0ed4e64b
+Merge: f38f27d 12c445e
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Tue Jun 19 19:05:00 2012 -0400
+
+    Merge branch 'ics' of github.com:LiquidSmoothROMs/android into ics
+
+commit f38f27d44a3337346b8a4c3a53d4e697ff59b30a
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Tue Jun 19 19:04:21 2012 -0400
+
+    Add Missing Linaro External Repos
+
+commit 12c445e104985b519a1a6932ae53efd166fc431e
+Author: Blueharford <jsseidel1@gmail.com>
+Date:   Tue Jun 19 04:06:07 2012 -0700
+
+     readd gemu
+
+commit 9143289882aa5be94fd4c5b8b486a84dd31e606e
+Author: Blueharford <jsseidel1@gmail.com>
+Date:   Mon Jun 18 11:18:13 2012 -0700
+
+    update motorola vendor name
+
+commit a5d46e329e2c3791076b31b55cf4f3e191d97144
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Sun Jun 17 14:02:10 2012 -0400
+
+    Add Spyder Config And Motorola Vendor
+
+commit 44c5d366e1dabf7fea527eaa0e5f0587c638c56d
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Thu Jun 14 17:38:38 2012 -0400
+
+    Use Our TelephonyProvider Now
+
+commit d6b27a04b00528cfa30c89fb937ce38f95eb7d37
+Author: Blueharford <jsseidel1@gmail.com>
+Date:   Wed Jun 13 10:39:21 2012 -0700
+
+    readd gmneu
+
+commit d0ff6784ee7aca47c0faf175c522c9cf68c30ffc
+Author: Blueharford <jsseidel1@gmail.com>
+Date:   Wed Jun 13 10:06:07 2012 -0700
+
+    gtest
+
+commit 9753a97751dd1c399726c4aeea318397d0181365
+Author: Blueharford <jsseidel1@gmail.com>
+Date:   Wed Jun 13 09:37:17 2012 -0700
+
+    remove gnemu
+
+commit 418ee46b3f807c3084ae5172b0ff26642a60d75e
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Wed Jun 13 03:37:09 2012 -0400
+
+    New Android Prebuilt/Samsung Hardware Repos
+
+commit 3a304a07f611c57156721e10c4bfa8c7f99cdd1f
+Author: Blueharford <jsseidel1@gmail.com>
+Date:   Tue Jun 12 15:43:09 2012 -0700
+
+    upgrade to 2.1
+
+commit 16d3dd40cb1198b409783c1f128a3eda096ea559
+Author: Blueharford <jsseidel1@gmail.com>
+Date:   Tue Jun 12 10:46:48 2012 -0700
+
+    more linaro stuff
+
+commit aaf3c34f66fc4da06ae6d271d2a6de6408fc797d
+Author: Blueharford <jsseidel1@gmail.com>
+Date:   Mon Jun 11 16:24:37 2012 -0700
+
+    temp remove manifest from gerrit and tree till i fix it in gerrit
+
+commit f91f6546c51aa38b5fe7feee23d4480d220e0746
+Author: Blueharford <jsseidel1@gmail.com>
+Date:   Mon Jun 11 12:23:02 2012 -0700
+
+    upgrade for linaro
+
+commit 9c209584b41c4e1b86679287f4e1427aaeb1d1fe
+Author: Blueharford <jsseidel1@gmail.com>
+Date:   Sun Jun 10 16:46:23 2012 -0700
+
+    use cm bluetooth to help fix pairing
+
+commit 0ddf61d2ae9f398d82f6de61b669acc9dfd93fb6
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Sat Jun 9 21:44:19 2012 -0400
+
+    Remove Some Unwanted Repos
+
+commit 7c3eb7f42e0016bc61a9bfe507e5a787b5894640
+Author: Blueharford <blueharford@gmail.com>
+Date:   Thu Jun 7 05:00:00 2012 -0700
+
+    cannot move manifest to 2.1 until all repos are upgraded... this broke the build
+
+commit 3c0fd3bc25b685a56fda9f1f04de37d66273bfe9
+Merge: 9e01a8b af2684e
+Author: Blueharford <blueharford@gmail.com>
+Date:   Thu Jun 7 04:58:49 2012 -0700
+
+    Merge branch 'ics' of github.com:LiquidSmoothROMs/android into ics
+
+commit af2684e128aec7bafc23d69a05d36f95a21d5124
+Author: JBirdVegas <jbirdvegas@gmail.com>
+Date:   Wed Jun 6 21:59:55 2012 -0400
+
+    fix email vs Email
+    (Thanks Steven May)
+    
+    Change-Id: Ief296d00d2cabd9523bb2e1565f0ce46b173f9dd
+
+commit c683639aa9c0719f38d243f3556a023afb6c37c5
+Author: JBirdVegas <jbirdvegas@gmail.com>
+Date:   Wed Jun 6 20:50:53 2012 -0400
+
+    update projects to AOSP refs/tags/android-4.0.4_r2.1
+    
+    Change-Id: Ibda5081b0e50d14394602a307741b44344c85885
+
+commit a3feec26502b932b69ddfda292656993ac4bcf1d
+Author: Blueharford <blueharford@gmail.com>
+Date:   Wed May 30 08:44:36 2012 -0700
+
+    use our email
+    
+    Change-Id: I7c19d7fc81f3df4ce00bd1af3630722b2b157de1
+
+commit 312f5967d4bc860ce9f351602510472d9d0dd912
+Author: Blueharford <jsseidel1@gmail.com>
+Date:   Wed May 30 04:18:14 2012 -0700
+
+    update readme and default.xml
+    
+     Author:    Blueharford <blueharford@gmail.com>
+    
+    Change-Id: Iad4153d77e62ed6514995cc3923120cd3f97690a
+
+commit 9e01a8b017a742b39c9b08081389adf10bad2d91
+Author: Blueharford <jsseidel1@gmail.com>
+Date:   Wed May 30 04:18:14 2012 -0700
+
+    update readme and default.xml
+
+commit 602298ed7356f7e5e6d382d2aa0238cd6e42bc9a
+Author: Blueharford <jsseidel1@gmail.com>
+Date:   Tue May 29 17:57:35 2012 -0700
+
+    enable gerrit
+
+commit 0775e71b737a7216a6a5bd667c491a1d5470f384
+Author: Blueharford <jsseidel1@gmail.com>
+Date:   Tue May 29 05:20:47 2012 -0700
+
+    cleanup old whitespace errors
+
+commit eab05ca9da30ae1cf4e4282fac887529bea7e38a
+Author: Blueharford <jsseidel1@gmail.com>
+Date:   Tue May 29 05:13:46 2012 -0700
+
+    update manifest for gerrit implementation
+
+commit 90619d6edf49f734dc45395ae505cc6ce8d00da1
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Mon May 28 15:55:33 2012 -0400
+
+    Use CMs Qcom V8 Repo/Use Our Music Repo
+
+commit dfdb38fa02c6289a252ab63fca92dce8937abbf9
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Mon May 28 15:50:23 2012 -0400
+
+    Use CyanogenMOD Qcom Omx Repos
+
+commit 1bc4fdcfe299bb1acde474a0c0c54c29acd574c1
+Author: YoYo <austrieshane@gmail.com>
+Date:   Mon May 28 16:41:43 2012 -0300
+
+    Added CyanogenMOD audio encoders...
+
+commit 11f4ab86768ffca0257e87762649e68f2e318366
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Sun May 20 16:31:35 2012 -0400
+
+    Adds Motorola Triumph Device/Vendor Repos
+
+commit cb0547b79743753e6a9ca3a4f9b192c736047068
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Sun May 13 17:17:25 2012 -0400
+
+    Track CMs Theme Chooser Repos
+
+commit 54eab79df261e1f19d63727ffaf07151bcf1eae8
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Sun May 13 17:13:35 2012 -0400
+
+    Remove Some Prebuilt Packages
+
+commit d2557fad3fa986a966ad62b57eeb1cc097456c87
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Wed May 2 18:57:25 2012 -0400
+
+    Revert "Revert "revert use our sdk""
+    
+    This reverts commit ae296e08846dd02f4666717a542c274a3307b888.
+
+commit ae296e08846dd02f4666717a542c274a3307b888
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Wed May 2 18:56:44 2012 -0400
+
+    Revert "revert use our sdk"
+    
+    This reverts commit f0b986a0e3f7a40ba155bdf4ac6a8c44aa7002a0.
+
+commit f0b986a0e3f7a40ba155bdf4ac6a8c44aa7002a0
+Author: Jon Stanford <jbirdvegas@gmail.com>
+Date:   Wed May 2 14:15:24 2012 -0300
+
+    revert use our sdk
+
+commit 8b570f3fc9f5d505ce533b8cd65e317dd9a58385
+Author: JBirdVegas <jbirdvegas@gmail.com>
+Date:   Tue May 1 16:38:38 2012 -0400
+
+    use our for of sdk
+
+commit 6e5259f2f895f93b0a064affb7f93a1cf1b80d0a
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Tue May 1 13:00:36 2012 -0400
+
+    Fetch Emulator Stuff Upstream
+
+commit cbdb8455c1660db53fa11a86877da996d0c171cc
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Mon Apr 30 18:14:57 2012 -0400
+
+    User Aosp Master SDK/Use Our External Qemu
+
+commit c5f80f9602ce986c1ffe36a2d2ba729bb485602c
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Mon Apr 30 17:59:02 2012 -0400
+
+    Remove Master Prebuilts/Use 404 Instead Of Master
+
+commit 54f65cc29b0e7b40a9b778a8e682ee02cb46b499
+Author: Jon Stanford <jbirdvegas@gmail.com>
+Date:   Mon Apr 30 16:47:44 2012 -0300
+
+    revert to Google's master branch of prebuilt/
+
+commit 1a4a5f89de2fca995e30a523018e4620684ce4c5
+Author: JBirdVegas <jbirdvegas@gmail.com>
+Date:   Mon Apr 30 13:41:18 2012 -0400
+
+    derp
+
+commit 6904fdb46fc1affcb302503700b9f058766711f7
+Author: JBirdVegas <jbirdvegas@gmail.com>
+Date:   Mon Apr 30 13:37:44 2012 -0400
+
+    include our fork of platform_prebuilt
+    include our repo manifest
+
+commit f1e09eabb6252b700d106eef29a23764da85e395
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Wed Apr 25 12:38:03 2012 -0400
+
+    Update Source Revision (4.0.4 r1.2)
+
+commit 5290f7a3141b0ae8f09137b2d339230582db575f
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Wed Apr 18 20:39:49 2012 -0400
+
+    Franco Needs His Own SqLite Now
+
+commit 9499881da87aaa5c44d392f1559de4b502e27985
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Wed Apr 18 15:01:20 2012 -0400
+
+    Lets Use Our New Launcher2 Repo
+
+commit 8a5f95166bbb3e11e86b17a08589372faf09dac1
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Sun Apr 8 03:55:35 2012 -0400
+
+    Use Master Branch For Freetype
+
+commit 39717d968ab340fed85b5e94fd81e10f89b201ad
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Sun Apr 8 02:05:43 2012 -0400
+
+    Apparently Qemu Kernel Is Needed :(
+
+commit 9b1a1afc8715425d406d37769eb8c60e7fc11c9e
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Sun Apr 8 02:00:49 2012 -0400
+
+    Master Prebuilts Branch/Use Master Sdk
+
+commit 5e72b553af5ff2e7a1ee04f5f4fe8e5b42972fcf
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Sun Apr 8 01:14:47 2012 -0400
+
+    Use Master Branch For Sdk
+
+commit a879b6d7803f8dde06754f3c1229ac7efa00a946
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Sat Apr 7 23:50:48 2012 -0400
+
+    Use Our Development Repo Now
+
+commit 57bc30b247e5686ba60b8e46433e289cd23bb483
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Sat Apr 7 23:43:52 2012 -0400
+
+    Use Our Android Emulator Now
+
+commit fdeb8179cf94ba3ed78c940733e25b2173f70288
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Sat Apr 7 23:28:08 2012 -0400
+
+    Remove Master Prebuilts Repos
+
+commit ea5d3ce24df9ac413c3a142216c553948f3eb47b
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Sat Apr 7 23:25:37 2012 -0400
+
+    Revert "Track 404 Branches Instead Of Master"
+    
+    This reverts commit 790ab21d94c594488b85de27ec800fdc62a2f36e.
+
+commit 790ab21d94c594488b85de27ec800fdc62a2f36e
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Sat Apr 7 22:19:23 2012 -0400
+
+    Track 404 Branches Instead Of Master
+
+commit fe25fa25c8ae66f1e9a0b6b7d935227ce66b5614
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Fri Mar 30 16:52:57 2012 -0400
+
+    Use Our Frameworks Compile Slang
+
+commit 5ff88bb96e8ac5ee4965d9aa5f6ba4823534ea1c
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Fri Mar 30 16:31:59 2012 -0400
+
+    Use Our Frameworks Compile Libbcc
+
+commit 1bf1f88d044aeaa7a0bcea15ef3962e8a93a1142
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Wed Mar 28 21:50:58 2012 -0400
+
+    Use Master Branch For Sdk Stuff
+
+commit 213000d313b89db623203a3bdfaa4776e56009f0
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Wed Mar 28 21:48:28 2012 -0400
+
+    Use Master Branch Prebuilts Tools
+
+commit cf7d7122b5c3c2a97697fe4ee0109ef1afb434d5
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Wed Mar 28 21:47:21 2012 -0400
+
+    Use Master Branch Qemu Kernel
+
+commit d10ed72a3b414ec140f4aa7135ea289d3cf617b1
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Wed Mar 28 21:44:22 2012 -0400
+
+    These Are Still Needed Duh
+
+commit 42ccabde975fa956b011982a5f91c20062cdad51
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Wed Mar 28 16:36:27 2012 -0400
+
+    Update Source Revision (4.0.4_r1.1)
+
+commit fa939a19f670ae982db44908db54be6cf6f8ca87
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Sun Mar 25 17:52:10 2012 -0400
+
+    Add AppWidgetPicker/Qcom Proprietary/MusicFX Repos
+
+commit 408fd4e57f3d975de9cb756bbf44c65cabfe06af
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Fri Mar 23 19:28:05 2012 -0400
+
+    Revert "Lets Try Master Qemu Again"
+    
+    This reverts commit 37310c8f93502dac004a82622cb8d34ae55a2a6c.
+
+commit 37310c8f93502dac004a82622cb8d34ae55a2a6c
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Wed Mar 21 03:15:09 2012 -0400
+
+    Lets Try Master Qemu Again
+
+commit e5ff700ade13e3e757a93dce99c150ed4a9a2744
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Tue Mar 20 01:57:07 2012 -0400
+
+    Remove Qcom Camera Repo
+
+commit 8c2f8a0e15916b667cb08f84aba938e283ae8610
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Mon Mar 19 14:14:42 2012 -0400
+
+    Fix Qemu Build Error/Readd Qcom Camera Repo
+
+commit b7c26cbb5b8521e390d9281225eb472961368dc9
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Sat Mar 10 16:31:37 2012 -0500
+
+    Use New Tuna & Maguro Repos
+
+commit 91235dcd78e9ef21bd42c618400802a7266b2b02
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Thu Mar 8 02:01:15 2012 -0500
+
+    Use Our Qualcomm V8 Engine
+
+commit 8eaae8c90e1f83f9a610402dc3a1a516406a764b
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Wed Mar 7 20:39:50 2012 -0500
+
+    Use Our Android RIL
+
+commit 72bdf838bb6f5aed08244f5a3a065a5c300376f9
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Wed Mar 7 14:41:38 2012 -0500
+
+    Use Our External V8 Engine
+
+commit 9df027f312b027330ee70d66b3c62e4b9e90e8d4
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Tue Mar 6 13:44:57 2012 -0500
+
+    Lower Reposync Speed/Use Secure Github
+
+commit 5689c77668fb41b0137e978c850700911b5936dd
+Author: JBirdVegas <jbirdvegas@gmail.com>
+Date:   Fri Mar 2 23:10:30 2012 -0500
+
+    include new cpu moniter widget
+    
+    this widget is a port of http://code.google.com/p/slw-battery-widget/
+    
+    ~many changes are comming but this gives us a stable base to work from :)
+
+commit 62e3e8a5845a6b30bfec6371ce2993c07ba5b151
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Wed Feb 29 15:26:00 2012 -0500
+
+    Revert "Remove Qcom Vendor Repos"
+    
+    This reverts commit f9c16439774e7145fa56c22d20a0c2962dcf6eb5.
+
+commit f9c16439774e7145fa56c22d20a0c2962dcf6eb5
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Wed Feb 29 13:44:41 2012 -0500
+
+    Remove Qcom Vendor Repos
+
+commit e444635ae3c6a3f4031f41d8f2350357e0e5c469
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Wed Feb 29 12:42:15 2012 -0500
+
+    Adjust Reposync Speed/Readd Qcom Vendor Repos
+
+commit 1b362c2731a929f3e7248303556eb980eb60d6ac
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Wed Feb 29 12:39:47 2012 -0500
+
+    Revert "Track Twisteds Qualcomm Repos"
+    
+    This reverts commit 8923a55ad3ed52c61539b31f71415f66a6a2cf3c.
+
+commit 8923a55ad3ed52c61539b31f71415f66a6a2cf3c
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Tue Feb 28 12:28:00 2012 -0500
+
+    Track Twisteds Qualcomm Repos
+
+commit 29f17fbb65f87ac52a56b7738c9906291ac94969
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Mon Feb 27 08:17:26 2012 -0500
+
+    Remove Qcom Vendors/Fix Github Protocol
+
+commit ea10a513ab266f31e8de8b978c2119a992658ba3
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Sun Feb 26 16:30:32 2012 -0500
+
+    Remove DSPManager Repo For Now
+
+commit 0420b186fbb571e24f5fda74fa08cea1bc62c39e
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Sat Feb 25 00:25:14 2012 -0500
+
+    Qcom Omx Core/Video Vendors
+
+commit 3a9bd23d6e40427127876b2c68df9f6ba58ba623
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Wed Feb 22 11:12:55 2012 -0500
+
+    Use Our Bionic/Get Freetype Upstream
+
+commit 860a43b10fcda094b78e4360f82759cabbfe1329
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Wed Feb 22 02:44:01 2012 -0500
+
+    User Our System Extras
+
+commit 5e0ee4c67e3678a3270df16ca4eccd3208e4debf
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Tue Feb 21 23:30:01 2012 -0500
+
+    Use Our Superuser Repos
+
+commit 2b45dcb3b11201ead366894b276be072c293f2f7
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Tue Feb 21 20:15:13 2012 -0500
+
+    Use Forked DeskClock/Libhardware Legacy
+
+commit 2375e9abfc411399deea6bd75ed0a4f81c3ef73a
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Sun Feb 19 17:07:16 2012 -0500
+
+    Remove Qcom Camera/Readd VoiceDialer
+
+commit 7e24b17a83c05b6598bda876771180b3c921811f
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Mon Feb 13 22:01:06 2012 -0500
+
+    Revert "Aosp Freetype/Add Gallery & VoiceDialer"
+    
+    This reverts commit b572d0c905baa65b6f92b210a49cf5ee752fb544.
+
+commit b572d0c905baa65b6f92b210a49cf5ee752fb544
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Mon Feb 13 10:42:29 2012 -0500
+
+    Aosp Freetype/Add Gallery & VoiceDialer
+
+commit b7f3428b8e611ecd6386d0eddca830aec77b8165
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Sun Feb 12 19:25:13 2012 -0500
+
+    Use Our System Netd
+
+commit bd85ab96cc6e456c1ac6e8c0a512cba7798636cc
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Sun Feb 12 18:20:01 2012 -0500
+
+    Use Our Mms/Freetype Repos
+
+commit b900384aa5e2e7669152bac8de9d99c1ba7edf92
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Sun Feb 12 18:15:14 2012 -0500
+
+    Remove Gallery/VoiceDialer Repos
+
+commit b3e22c15ad248f5a1686bb00d20190d465479c05
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Wed Feb 8 09:38:51 2012 -0500
+
+    Sorry Jbird We Use Ours
+
+commit f671b91df74c91a6f174b7f2d8f7be27030ce02b
+Author: Jon Stanford <jbirdvegas@gmail.com>
+Date:   Wed Feb 8 08:35:47 2012 -0500
+
+    use aosp webkit
+
+commit b77ce65e440a470eef86f0e2e5069d4220283c6b
+Author: Jon Stanford <jbirdvegas@gmail.com>
+Date:   Wed Feb 8 01:19:46 2012 -0500
+
+    use aosp skia
+
+commit d66dd35faceba79fa49c4e66e920491777687592
+Author: Jon Stanford <jbirdvegas@gmail.com>
+Date:   Tue Feb 7 16:33:09 2012 -0500
+
+    revert use aosp dalvik
+
+commit 0e06ed8467c34c76d733331d3c23caec6f7d5d84
+Author: Jon Stanford <jbirdvegas@gmail.com>
+Date:   Tue Feb 7 16:07:43 2012 -0500
+
+    use aosp dalvik
+
+commit d7226dede2877bd94da268c5b4ade879f4c15af2
+Author: Jon Stanford <jbirdvegas@gmail.com>
+Date:   Tue Feb 7 15:39:54 2012 -0500
+
+    derp
+
+commit cbe98a546a66fd31e3b67ea0cbc442f800001729
+Author: Jon Stanford <jbirdvegas@gmail.com>
+Date:   Tue Feb 7 15:38:53 2012 -0500
+
+    use aosp external_icu4c
+
+commit cf4720e13db47fbcc1258e7fda842e8f127d3c9e
+Author: Jon Stanford <jbirdvegas@gmail.com>
+Date:   Tue Feb 7 15:31:22 2012 -0500
+
+    use aosp bionic
+
+commit 3a6edb9957c96644f3b74e7628b75b213a62a28a
+Author: Jon Stanford <jbirdvegas@gmail.com>
+Date:   Tue Feb 7 15:14:05 2012 -0500
+
+    use aosp prebuilt
+
+commit 901b58ff08107f327ca0bcb6e406ccd6a9fa78ea
+Author: JBirdVegas <jbirdvegas@gmail.com>
+Date:   Mon Feb 6 02:18:48 2012 -0500
+
+    revert all of my last commits
+    
+    this resets the head to:
+    
+    "Revert To Aosp Slang"
+    commit 843108ba8e94d9d9a49e95a784e78c0108fae18f
+
+commit 2274bf9b1e6166585ba1788be144bf100ede3713
+Author: JBirdVegas <jbirdvegas@gmail.com>
+Date:   Mon Feb 6 02:15:35 2012 -0500
+
+    Revert "Revert To Aosp Slang"
+    
+    This reverts commit 843108ba8e94d9d9a49e95a784e78c0108fae18f.
+
+commit 4be3cc6c9db83d4ab31c5abd7f0aee4ce641b70a
+Author: Jon Stanford <jbirdvegas@gmail.com>
+Date:   Mon Feb 6 01:51:42 2012 -0500
+
+    comment out prebuilts/tools
+
+commit 3f3b0ae20715ab9a19e2196d2f4924846beaa6ce
+Author: Jon Stanford <jbirdvegas@gmail.com>
+Date:   Mon Feb 6 01:50:25 2012 -0500
+
+    comment out qemu-kernel
+
+commit 32a5b9d217bcaafd24145b470d62eb02ac2ac17e
+Author: Jon Stanford <jbirdvegas@gmail.com>
+Date:   Mon Feb 6 01:47:40 2012 -0500
+
+    stop tracking master start tracking refs/tags/android-4.0.3_r1
+
+commit 767d6d535182b0f65138bcb2156c2e22245f7698
+Author: Jon Stanford <jbirdvegas@gmail.com>
+Date:   Mon Feb 6 01:22:56 2012 -0500
+
+    revert libpng to aosp
+
+commit 0da1cc4237b27af1201e7d16a2f7606748c89892
+Author: JBirdVegas <jbirdvegas@gmail.com>
+Date:   Mon Feb 6 01:15:55 2012 -0500
+
+    revert using prebuilt and icu4c
+    (attempt to fix build errors)
+
+commit 843108ba8e94d9d9a49e95a784e78c0108fae18f
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Fri Feb 3 00:28:25 2012 -0500
+
+    Revert To Aosp Slang
+
+commit 6c7a3b6a495e2df306a7f54e7bbe2e2279bdbdb8
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Thu Feb 2 21:33:15 2012 -0500
+
+    A Bunch Of New Repos
+
+commit 93f73a765b223e1dcd7612135156367debe32c33
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Thu Feb 2 12:21:22 2012 -0500
+
+    Revert "Remove Unwanted Gallery Repos"
+    
+    This reverts commit e209469125167b3a16fb195f55587aac213e4334.
+
+commit e209469125167b3a16fb195f55587aac213e4334
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Wed Feb 1 14:59:58 2012 -0500
+
+    Remove Unwanted Gallery Repos
+
+commit 951a9e73424b0c384be1f8cab3ace5a74f9ee313
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Mon Jan 30 13:15:23 2012 -0500
+
+    Missing Gallery Repo/New DSPManager Package
+
+commit 62d5935aa5f68f8815c091b893cfed07431644fd
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Fri Jan 27 12:43:31 2012 -0500
+
+    Use Our Media Provider
+
+commit 9aa95b236a1ee83d7a114bb2b8d912f9d90693aa
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Tue Jan 24 02:03:15 2012 -0500
+
+    Use Our Dalvik/Prebuilt Repos
+
+commit 2ac89192245f2ead29baef67c12b7b7e7f785be0
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Sun Jan 22 00:52:26 2012 -0500
+
+    Use Our Vold/Add Liquid Control
+
+commit 118d2f640db80de8279a369e4eaad48be5191e52
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Fri Jan 20 12:36:40 2012 -0500
+
+    Add Launcher2 Repo Again
+
+commit 2465f32a503ef7553488dc8cb2f8717e4e55e94e
+Author: Liquid Smooth <liquid0624@gmail.com>
+Date:   Thu Jan 19 07:42:18 2012 -0500
+
+    Initial Ics Liquid Manifest

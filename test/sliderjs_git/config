@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://bitbucket.org/ranjan_purbey/sliderjs
+	fetch = +refs/*:refs/*
+	mirror = true

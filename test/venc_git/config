@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://bitbucket.org/papadoo1/venc
+	fetch = +refs/*:refs/*
+	mirror = true

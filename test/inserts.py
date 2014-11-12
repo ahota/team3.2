@@ -11,6 +11,8 @@
 # We are going to take each quartet and put it into an object like the one immediately below. 
 #
 
+import pymongo, json, re
+
 record = { 'commit': { 'hash': '', 'author': '', 'email': '', 'date': '', 'message': '' } }
 
 with open('ajgu-graphdb_git.log', 'r') as f: 
@@ -54,9 +56,11 @@ with open('ajgu-graphdb_git.log', 'r') as f:
         record['commit']['message'] = record['commit']['message'].rstrip()
         print(record)
 
+f.close()
 
 # Once the record is built, insert it into the database.
 
-f.close()
+client = pymongo.MongoClient('localhost')
 
+client.close()
 

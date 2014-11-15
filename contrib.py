@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import pymongo, re
 from urlparse import urlparse
 
@@ -32,7 +34,7 @@ for doc in commits.find():
         table[user].append(project)
 
     i = i + 1
-    if i == 100000: 
+    if i == 10: 
       break
 
 client.close()
